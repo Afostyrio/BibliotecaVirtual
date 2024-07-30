@@ -215,7 +215,7 @@ thumbnail: "assets/img/{thumbnail}" """
   exam_olympiad_label = tk.Label(exam_tab, text="Olimpiada")
   exam_olympiad_label.grid(row=1, column=1)
   exam_olympiad_listbox = tk.Listbox(exam_tab, selectmode="single", height=3, exportselection=0)
-  exam_olympiad_listbox.insert(tk.END, *["OBM", "OMM", "OFM"]) # Añado soporte para la OMMGto
+  exam_olympiad_listbox.insert(tk.END, *["OBM", "OMMGto", "OFMGto"]) # Añado soporte para la OMMGto
   exam_olympiad_listbox.bind("<<ListboxSelect>>", show_editions)
   exam_olympiad_listbox.grid(row=1, column=2)
 
