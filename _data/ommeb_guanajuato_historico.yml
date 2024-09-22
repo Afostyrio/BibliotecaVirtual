@@ -1,0 +1,239 @@
+- year: 2017
+  levels:
+  - level: Nivel 1
+    team_achievement: 
+    team:
+    - name: Argelia Sánchez Cruz
+      achievement: Plata
+    - name: Samuel Cano Bravo
+      achievement: Bronce
+    - name: Karol Romina Arias Estrada
+      achievement: Participación
+  - level: Nivel 2
+    team_achievement: 
+    team:
+    - name: Cynthia Naely López Estrada
+      achievement: Participación
+    - name: Cinthia Camila Bravo Marmolejo
+      achievement: Participación
+    - name: Juan Braulio Olivares Rodríguez
+      achievement: Bronce
+  - level: Nivel 3
+    team_achievement: 
+    team:
+    - name: Joshua Sebastián González Torres
+      achievement: Plata
+    - name: Isaac Pancardo Botello
+      achievement: Plata
+    - name: Iván Alexander Flores Sánchez
+      achievement: Bronce
+
+- year: 2018
+  levels:
+  - level: Nivel 1
+    team_achievement: 
+    team:
+    - name: Rodrigo Áviles Cabrera
+      achievement: Plata
+    - name: Said Huizar Dorantes
+      achievement: Plata
+    - name: Jesús Fernando Gutierrez Hurtaza
+      achievement: Participación
+  - level: Nivel 2
+    team_achievement: 
+    team:
+    - name: Juan Braulio Olivares Rodríguez
+      achievement: Plata
+    - name: Cynthia Naely López Estrada
+      achievement: Plata
+    - name: Juan Pablo Amezcua González
+      achievement: Mención Honorífica
+  - level: Nivel 3
+    team_achievement: 
+    team:
+    - name: Itzel Aleli Rodríguez Calvillo
+      achievement: Bronce
+    - name: Cinthia Camila Bravo Marmolejo
+      achievement: Bronce
+    - name: Itzel Berenice Martínez Palacios
+      achievement: Mención Honorífica
+
+- year: 2019
+  levels:
+  - level: Nivel 1
+    team_achievement: 
+    team:
+    - name: Rodrigo Áviles Cabrera
+      achievement: Oro
+    - name: Juan Carlos Flores Aranda
+      achievement: Bronce
+    - name: Isaac Abraham Rodríguez Calvillo
+      achievement: Bronce
+  - level: Nivel 2
+    team_achievement: 
+    team:
+    - name: Said Huizar Dorantes
+      achievement: Plata
+    - name: Daniela González Flores
+      achievement: Mención Honorífica
+    - name: Itzel Cano Rivas
+      achievement: Bronce
+  - level: Nivel 3
+    team_achievement: Plata
+    team:
+    - name: Cynthia Naely López Estrada
+      achievement: Plata
+    - name: Juan Braulio Olivares Rodríguez
+      achievement: Plata
+    - name: Juan Pablo Amezcua González
+      achievement: Bronce
+
+- year: 2020
+  levels:
+  - level: Nivel 1
+    team_achievement: Plata
+    team:
+    - name: Héctor Alejandro Álvarez Rodríguez
+      achievement: Bronce
+    - name: Axel Noel Trujillo Sánchez
+      achievement: Bronce
+    - name: Diana Camila Avilés Granados
+      achievement: Participación
+  - level: Nivel 2
+    team_achievement: 
+    team:
+    - name: Said Huizar Dorantes
+      achievement: Bronce
+    - name: Alfredo Nava Herrera
+      achievement: Bronce
+    - name: Rodrigo Avilés Cabrera
+      achievement: Bronce
+  - level: Nivel 3
+    team_achievement: 
+    team:
+    - name: Itzel Cano Rivas
+      achievement: Bronce
+    - name: Argelia Sánchez Cruz
+      achievement: Bronce
+    - name: Samuel Cano Bravo
+      achievement: Mención Honorífica
+
+- year: 2021
+  levels:
+  - level: Nivel 1
+    team_achievement: 
+    team:
+    - name: Regina Fernández Arreola
+      achievement: Participación
+    - name: Ximena Paola Mógica Hernández
+      achievement: Participación
+    - name: Aarón Guzmán Quintana
+      achievement: Mención Honorífica
+  - level: Nivel 2
+    team_achievement: 
+    team:
+    - name: María Taide Cárdenas Briones
+      achievement: Participación
+    - name: Juan Carlos Flores Aranda
+      achievement: Mención Honorífica
+    - name: Paulina Juárez Arévalo
+      achievement: Participación
+  - level: Nivel 3
+    team_achievement: 
+    team:
+    - name: Said Huizar Dorantes
+      achievement: Mención Honorífica
+    - name: Santiago Javier Rivera Romo
+      achievement: Participación
+    - name: Josué Ortiz Castro
+      achievement: Participación
+
+- year: 2022
+  levels:
+  - level: Nivel 1
+    team_achievement: 
+    team:
+    - name: Kaname Mitani
+      achievement: Bronce
+    - name: Rodrigo Guzmán Hernández
+      achievement: Mención Honorífica
+    - name: Ramsés Octavio Gonzáles Ortiz
+      achievement: Bronce
+  - level: Nivel 2
+    team_achievement: 
+    team:
+    - name: María Ximena Álvarez Martínez
+      achievement: Bronce
+    - name: Héctor Alejandro Álvarez Rodríguez
+      achievement: Bronce
+    - name: Mateo Pérez Parra Martínez
+      achievement: Bronce
+  - level: Nivel 3
+    team_achievement: 
+    team:
+    - name: Leonardo Guerrero Mateos
+      achievement: Participación
+    - name: Eva Rodríguez Muñoz
+      achievement: Bronce
+    - name: Juan Carlos Flores Aranda
+      achievement: Bronce
+
+- year: 2023
+  levels:
+  - level: Nivel 1
+    team_achievement: 
+    team:
+    - name: Ander Alonso Albores Ramírez
+      achievement: Oro
+    - name: Ivan Velkan Vigueras Alonso
+      achievement: Mención Honorífica
+    - name: Demian Gonzalez García
+      achievement: Mención Honorífica
+  - level: Nivel 2
+    team_achievement: 
+    team:
+    - name: Kyzha Myranda De León Zamarripa
+      achievement: Bronce
+    - name: Julián Emilio Martínez Villegas
+      achievement: Mención Honorífica
+    - name: Sofia Martínez Sánchez
+      achievement: Mención Honorífica
+  - level: Nivel 3
+    team_achievement: 
+    team:
+    - name: María Ximena Álvarez Martínez
+      achievement: Mención Honorífica
+    - name: Héctor Alejandro Álvarez Rodríguez
+      achievement: Bronce
+    - name: Braulio Padilla Rangel
+      achievement: Plata
+
+- year: 2024
+  levels:
+  - level: Nivel 1
+    team_achievement:
+    team:
+    - name: Angelo Maximiliano Espitia Díaz
+      achievement: Bronce
+    - name: Eduardo Josué Ayala Muñoz
+      achievement: Bronce
+    - name: Joaquín Rafael Servin Sandoval
+      achievement: Plata
+  - level: Nivel 2
+    team_achievement:
+    team:
+    - name: Ander Alonso Albores Ramírez
+      achievement: Oro
+    - name: Érick Adán Cortez Peña
+      achievement: Mención Honorífica
+    - name: José Antonio Vega Sánchez
+      achievement: Plata
+  - level: Nivel 3
+    team_achievement: Oro
+    team:
+    - name: Diego Escalona de Luna
+      achievement: Plata
+    - name: Kyzha Myranda De León Zamarripa
+      achievement: Mención Honorífica
+    - name: Mauro Gonzalo Lopez Rico
+      achievement: Mención Honorífica

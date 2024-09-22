@@ -1,0 +1,59 @@
+- year: 2004
+  stars:
+  - name: David Guadalupe Torres Flores
+    olympiad_name: Olimpiada Matemática de Centroamérica y el Caribe (OMCC)
+    achievement: Oro
+
+- year: 2005
+  stars:
+  - name: David Guadalupe Torres Flores
+    olympiad_name: International Mathematical Olympiad (IMO)
+    achievement: Mención Honorífica
+  - name: David Guadalupe Torres Flores
+    olympiad_name: Olimpiada Iberoamericana de Matemáticas (OIM)
+    achievement: Bronce
+
+- year: 2007
+  stars:
+  - name: Alejandro Jiménez Martínez
+    olympiad_name: Olimpiada Matemática de Centroamérica y el Caribe (OMCC)
+    achievement: Oro
+
+- year: 2016
+  stars:
+  - name: Jesús Omar Sistos Barrón
+    olympiad_name: International Mathematics Competition (IMC)
+    achievement: Bronce
+
+- year: 2017
+  stars: 
+  - name: Jesús Omar Sistos Barrón
+    olympiad_name: Olimpiada Matemática de Centroamérica y el Caribe (OMCC)
+    achievement: Plata
+  - name: Jesús Omar Sistos Barrón
+    olympiad_name: International Mathematics Competition (IMC)
+    achievement: Plata
+
+- year: 2019
+  stars: 
+  - name: Nathalia del Carmen Jasso Vera
+    olympiad_name: European Girls' Mathematical Olympiad (EGMO)
+    achievement: Participación
+
+- year: 2020
+  stars:
+  - name: Nathalia del Carmen Jasso Vera
+    olympiad_name: European Girls' Mathematical Olympiad (EGMO)
+    achievement: Bronce
+
+- year: 2021
+  stars:
+  - name: Cynthia Naely López Estrada
+    olympiad_name: European Girls' Mathematical Olympiad (EGMO)
+    achievement: Bronce
+
+- year: 2024
+  stars:
+  - name: Ander Alonso Albores Ramírez
+    olympiad_name: International Mathematics Competition (IMC)
+    achievement: Mención Honorífica

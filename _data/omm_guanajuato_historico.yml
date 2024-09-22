@@ -1,0 +1,282 @@
+- year: 2005
+  team:
+  - name: Julian Ferrer Ríos
+    achievement: 
+  - name: Andrea Eugenia Gallegos Tirado
+    achievement: Plata
+  - name: Jose Manuel Luna Luna
+    achievement: Bronce
+  - name: Jacob Esaú Salazar Solano
+    achievement: Plata
+  - name: Paulina Salcedo Ortiz
+    achievement: Plata
+  - name: David Guadalupe Torres Flores
+    achievement: Oro
+
+- year: 2006
+  team:
+  - name: Sandra Alfaro López
+    achievement: Bronce
+  - name: Alejandro Jiménez Martínez
+    achievement: Plata
+  - name: Alberto José Ramírez Valadez
+    achievement: Bronce
+  - name: Paulina Salcedo Ortiz
+    achievement: Plata
+  - name: Verónica Suaste Morales
+    achievement: Bronce
+
+- year: 2007
+  team:
+  - name: Rocío Gabriela Anguiano Soria
+    achievement: 
+  - name: Armando Galvan Hernánndez
+    achievement: Plata
+  - name: Luis Enrique Osorio Puentes
+    achievement: Bronce
+  - name: Alberto José Ramíırez Valadez
+    achievement: Plata
+  - name: María Teresa Rodríguez Estrada
+    achievement: 
+  - name: César Ángel Jesús Guadalupe Zavala Ramírez
+    achievement: 
+
+- year: 2008
+  team:
+  - name: Joshua Ayork Acevedo Carabantes
+    achievement: Mención Honorífica
+  - name: Gabriel Gutierrez Ramírez
+    achievement: Mención Honorífica
+  - name: Mario Enrique Negrete García
+    achievement: Mención Honorífica
+  - name: Christian Ojeda Trejo
+    achievement: Plata
+  - name: Ariana Alesia Sandoval Partida
+    achievement: Bronce
+  - name: Hilda de Jesus Terrones Segura
+    achievement: 
+
+- year: 2009
+  team:
+  - name: Joshua Ayork Acevedo Carabantes
+    achievement: Bronce
+  - name: Lizda Nazdira Moncada Morales
+    achievement: 
+  - name: Christian Ojeda Trejo
+    achievement: Plata
+  - name: Jonathan Peuling Prevost
+    achievement: Mención Honorífica
+  - name: Victoria de Jesus Terrones Segura
+    achievement: Bronce
+  - name: Jonatan Zepahua Jimenez
+    achievement: 
+
+- year: 2010
+  team:
+  - name: Joshua Ayork Acevedo Carabantes
+    achievement: Plata
+  - name: Ramón Ivían Garcia Alvarez
+    achievement: Plata
+  - name: Lizda Nazdira Moncada Morales
+    achievement: Bronce
+  - name: Christian Dennis Olvera Torres
+    achievement: 
+  - name: Victoria de Jesus Terrones Segura
+    achievement: Plata
+  - name: Gerardo Zago Yáñez
+    achievement: Plata
+
+- year: 2011
+  team:
+  - name: Francisco Gerardo Martínez Palacios
+    achievement: Bronce
+  - name: Ulises Perez Cendejas
+    achievement: Bronce
+  - name: Christian Dennis Olvera Torres
+    achievement: Bronce
+  - name: Ramón Ivían Garcia Alvarez
+    achievement: Oro
+  - name: Gerardo Pérez Suárez
+    achievement: Plata
+  - name: Joshua Ayork Acevedo Carabantes
+    achievement: Plata
+
+- year: 2012
+  team:
+  - name: Joshua Ayork Acevedo Carabantes
+    achievement: Oro
+  - name: Ramón Ivían Garcia Alvarez
+    achievement: Oro
+  - name: Diego Aarón Moreno Galvan
+    achievement: Bronce
+  - name: Ulises Perez Cendejas
+    achievement: Bronce
+  - name: Emmanuel Romero Ruiz
+    achievement: Bronce
+  - name: Victoria de Jesus Terrones Segura
+    achievement: Bronce
+
+- year: 2013
+  team:
+  - name: Israel Bonal Rodríguez
+    achievement: Bronce
+  - name: Rodolfo Emilio Montes de Oca Osornio
+    achievement: 
+  - name: Diego Aarón Moreno Galván
+    achievement: 
+  - name: Héctor Eduardo Parga Nájera
+    achievement: 
+  - name: Ulises Pérez Cendejas
+    achievement: Plata
+  - name: Irwin Enrique Villalobos López
+    achievement: Bronce
+
+- year: 2014
+  team:
+  - name: Israel Bonal Rodríguez
+    achievement: Oro
+  - name: Cristian Chacón Valdez
+    achievement: Bronce
+  - name: Tania Martínez Villagómez
+    achievement: Bronce
+  - name: Tulio Muñoz Magaña
+    achievement: Plata
+  - name: Héctor Eduardo Parga Nájera
+    achievement: Bronce
+  - name: Eric Zavala López
+    achievement: 
+
+- year: 2015
+  team:
+  - name: Israel Bonal Rodríguez
+    achievement: Oro
+  - name: Tulio Muñoz Magaña
+    achievement: Plata
+  - name: Héctor Eduardo Parga Nájera
+    achievement: Plata
+  - name: Jesús Omar Sistos Barrón
+    achievement: Bronce
+  - name: Irwin Enrique Villalobos López
+    achievement: Plata
+  - name: Eric Zavala López
+    achievement: Bronce
+
+- year: 2016
+  team:
+  - name: Valentina Arévalo Arredondo
+    achievement: Participación
+  - name: Nathalia del Carmen Jasso Vera
+    achievement: Bronce
+  - name: Jesús Antonio Martínez Miranda
+    achievement: Participación
+  - name: Héctor Eduardo Parga Nájera
+    achievement: Plata
+  - name: Ernesto Antonio Reyes Ramírez
+    achievement: Participación
+  - name: Jesús Omar Sistos Barrón
+    achievement: Plata
+
+- year: 2017
+  team:
+  - name: Josué Irad Galindo De la Serna
+    achievement: Bronce
+  - name: Isaac Pancardo Botello
+    achievement: Bronce
+  - name: Rubén Pérez Palacios
+    achievement: 
+  - name: Nathalia del Carmen Jasso Vera
+    achievement: Plata
+  - name: Sebastian Sánchez Lara
+    achievement: Plata
+  - name: Jesús Omar Sistos Barrón
+    achievement: Plata
+
+- year: 2018
+  team:
+  - name: Isaac Pancardo Botello
+    achievement: Oro
+  - name: Jesús Omar Sistos Barrón
+    achievement: Oro
+  - name: Sebastián Sánchez Lara
+    achievement: Plata
+  - name: Nathalia del Carmen Jasso Vera
+    achievement: Bronce
+  - name: Joshua Sebastián González Torres
+    achievement: Bronce
+  - name: José de Jesús Liceaga Martínez
+    achievement: Plata
+
+- year: 2019
+  team:
+  - name: Jesús Omar Sistos Barrón
+    achievement: Oro
+  - name: José de Jesús Liceaga Martínez
+    achievement: Plata
+  - name: Isaac Pancardo Botello
+    achievement: Plata
+  - name: Nathalia del Carmen Jasso Vera
+    achievement: Plata
+  - name: Hector Fernando Ricardez Lara
+    achievement: Plata
+  - name: Joshua Sebastián Gonzalez Torres
+    achievement: Bronce
+
+- year: 2020
+  team:
+  - name: Isaac Pancardo Botello
+    achievement: Oro
+  - name: Joshua Sebastián González Torres
+    achievement: Plata
+  - name: Juan Braulio Olivares Rodríguez
+    achievement: Plata
+  - name: Gustavo Axel Neri Mora
+    achievement: Bronce
+  - name: Itzel Cano Rivas
+    achievement: Bronce
+  - name: Saúl Iván Sámano Saucedo
+    achievement: Bronce
+
+- year: 2021
+  team:
+  - name: Cynthia Naely López Estrada
+    achievement: Plata
+  - name: Juan Braulio Olivares Rodríguez
+    achievement: Mención Honorífica
+  - name: Itzel Cano Rivas
+    achievement: Mención Honorífica
+  - name: Juan Pablo Amezcua González
+    achievement: Mención Honorífica
+  - name: Gabriela Sarahí Martínez Rodríguez
+    achievement: Participación
+  - name: Lorena Estefany Segura Prado
+    achievement: Participación
+
+- year: 2022
+  team:
+  - name: Juan Pablo Amezcua González
+    achievement: Plata
+  - name: Itzel Cano Rivas
+    achievement: Participación
+  - name: Said Huizar Dorantes
+    achievement: Bronce
+  - name: Luis Emilio Martínez Capetillo
+    achievement: Bronce
+  - name: Juan Braulio Olivares Rodríguez
+    achievement: Bronce
+  - name: Juan Pablo Trejo Rendón
+    achievement: Mención Honorífica
+
+- year: 2023
+  team:
+  - name: Roberto Eugenio Esqueda Allande
+    achievement: Bronce
+  - name: Juan Pablo Trejo Rendón
+    achievement: Bronce
+  - name: Said Huizar Dorantes
+    achievement: Bronce
+  - name: David Bribiesca Valtierra
+    achievement: Bronce
+  - name: Saulo Alonso Ramos Aldaco
+    achievement: Participación
+  - name: Fernando Hernández Melo
+    achievement: Participación

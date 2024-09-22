@@ -1,6 +1,6 @@
 ---
 title: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas
-urlname: ommeb-guanajuato
+urlname: cnfomm-guanajuato
 logo-title: ../assets/img/Logo-cnfomm.png
 layout: home
 ---

@@ -1,21 +1,12 @@
 ---
 title: Olimpiadas Internacionales
-urlname: interational-guanajuato
+urlname: internacionales-guanajuato
 layout: home
 ---
 
-  {% assign years = "" | split: "" %}
-  {% for participante in site.data.internacional_guanajuato_historico%}
-    {% assign year = participante.Year | strip %}
-    {% unless years contains year %}
-      {% assign years = years | push: year %}
-    {% endunless %}
-  {% endfor %}
-  {% assign sorted_years = years | sort %}
-
   <div class= "row">
-  {% for year in sorted_years reversed %}
-  <h2 class="text-center">{{year}}</h2>
+  {% for item in site.data.internacional_guanajuato_historico reversed%}
+  <h2 class="text-center">{{item.year}}</h2>
   <table class="table table-dark table-hover">
     <thead>
       <tr>
@@ -25,14 +16,12 @@ layout: home
       </tr>
     </thead>
     <tbody>
-    {% for participante in site.data.internacional_guanajuato_historico%}
-    {% if participante.Year contains year %}
+    {% for participante in item.stars%}
     <tr>
-      <td>{{participante.Nombre}}</td>
-      <td>{{participante.Olimpiada}}</td>
-      <td>{{participante.Logro}}</td>
+      <td>{{participante.name}}</td>
+      <td>{{participante.olympiad_name}}</td>
+      <td>{{participante.achievement}}</td>
     </tr>
-    {% endif %}
     {% endfor %}
     </tbody>
   </table>
