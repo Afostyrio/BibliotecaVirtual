@@ -26,7 +26,7 @@ permissions:
   deployments: write
   discussions: write
   issues: write
-  pages: read
+  pages: write
   packages: write
   pull-requests: write
   repository-projects: write
