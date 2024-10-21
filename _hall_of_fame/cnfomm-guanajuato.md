@@ -4,7 +4,7 @@ urlname: cnfomm-guanajuato
 logo-title: ../assets/img/Logo-cnfomm.png
 layout: home
 ---
-
+<!-- Ésta es, por ahora, la mejor manera de hacer esto, porque los equipos de la Femenil son un desmadre que no puede ser formateadas como yaml's (como con las otras páginas). Si se te ocurre algo mejor, inténtalo. - Joshua -->
   {% assign years = "" | split: "" %}
   {% for participante in site.data.cnfomm_guanajuato_historico%}
     {% assign year = participante.Year | strip %}
