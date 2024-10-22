@@ -44,7 +44,8 @@ order: 4
 						</div>
 					</div>
           <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4"">
-            {% for item in site.colaboradores %}
+            {% assign colaboradores = site.data.colaboradores | sort: "title" %}
+            {% for item in colaboradores %}
             <div class="col">
               <div class="card h-100 mb-3">
                 <a
@@ -60,14 +61,16 @@ order: 4
                     alt="{{ item.title }}">
                 </a>
                 <div class="card-body">
-                  <a
+                  <h6 class="card-title">
+                    <a
                     href="{{ item.link | relative_url }}"
                     target="_blank"
                     class="card-link"
                     rel="noopener noreferrer"
-                  >{{ item.title }}</a>
+                    >{{ item.title }}</a>
+                  </h6>
                   <p class="card-text">
-                    {{ item.content }}
+                    {{ item.contribution }}
                   </p>
                 </div>
               </div>
