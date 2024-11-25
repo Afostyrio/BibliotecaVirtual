@@ -6,11 +6,12 @@ layout: home
 ---
 
   <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
-  {% for item in site.nacionales_omm reversed%}
+  {% assign nacionales = site.data.nacionales_omm | sort: "year"%}
+  {% for nacional in nacionales reversed%}
       <div class="col">
         <div class="card h-100 mb-3">
           <a
-            href="{{ item.file | relative_url }}"
+            href="{{site.baseurl}}assets/pdf/Nacionales/OMM/{{nacional.year}}.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -18,16 +19,16 @@ layout: home
               height="150px"
               style="object-fit: contain;"
               class="card-img-top border-bottom bg-white"
-              src="{{ item.thumbnail | relative_url}}"
-              alt="Nacional {{ item.year }}">
+              src="{{site.baseurl}}assets/img/{{nacional.thumbnail}}"
+              alt="Nacional {{ nacional.year }}">
           </a>
           <div class="card-body">
             <a
-              href="{{ item.file | relative_url }}"
+              href="{{site.baseurl}}assets/pdf/Nacionales/OMM/{{nacional.year}}.pdf"
               target="_blank"
               class="card-link"
               rel="noopener noreferrer"
-            >Nacional {{ item.year }}</a>
+            >Nacional {{ nacional.year }}</a>
           </div>
         </div>
       </div>
