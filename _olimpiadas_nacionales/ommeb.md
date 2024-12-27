@@ -9,68 +9,65 @@ layout: home
 <div class="row">
 	<div class="col mb-3">
 	<h2 class="text-center">{{edition.year}}</h2>
-  <h3>Individual</h3>
+	<h3 class="text-center">{{edition.location}}</h3>
+  <h4>Individual</h4>
     <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
-    {% for item in site.nacionales_ommeb %}
-    {% if item.year == edition.year and item.mode == "Individual"%}
-        <div class="col">
-          <div class="card h-100 mb-3">
+    {% for level in edition.individual_levels %}
+      <div class="col mx-auto">
+        <div class="card h-100 mb-3">
+          <a
+            href="../assets/pdf/Nacionales/OMMEB/{{ edition.year }}-I-N{{ level.level }}.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              height="150px"
+              style="object-fit: contain;"
+              class="card-img-top border-bottom bg-white"
+              src="../assets/img/{{ edition.thumbnail }}"
+              alt="OMMEB {{ item.year }} Individual Nivel {{ level.level }}">
+          </a>
+          <div class="card-body">
             <a
               href="{{ item.file | relative_url }}"
               target="_blank"
+              class="card-link"
               rel="noopener noreferrer"
-            >
-              <img
-                height="150px"
-                style="object-fit: contain;"
-                class="card-img-top border-bottom bg-white"
-                src="{{ item.thumbnail | relative_url}}"
-                alt="Nacional {{ item.year }} {{item.mode}}">
-            </a>
-            <div class="card-body">
-              <a
-                href="{{ item.file | relative_url }}"
-                target="_blank"
-                class="card-link"
-                rel="noopener noreferrer"
-              >Nacional {{ item.year }} Nivel {{item.level}} {{item.mode}}</a>
-            </div>
+            >OMMEB {{ edition.year }} Individual Nivel {{ level.level }}</a>
           </div>
         </div>
-      {% endif %}
+      </div>
     {% endfor %}
     </div>
-    <h3>Equipos</h3>
+  <h4>Equipos</h4>
     <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
-    {% for item in site.nacionales_ommeb %}
-    {% if item.year == edition.year and item.mode == "Equipos"%}
-        <div class="col">
-          <div class="card h-100 mb-3">
+    {% for level in edition.team_levels %}
+      <div class="col mx-auto">
+        <div class="card h-100 mb-3">
+          <a
+            href="../assets/pdf/Nacionales/OMMEB/{{ edition.year }}-I-N{{ level.level }}.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              height="150px"
+              style="object-fit: contain;"
+              class="card-img-top border-bottom bg-white"
+              src="../assets/img/{{ edition.thumbnail }}"
+              alt="OMMEB {{ item.year }} Individual Nivel {{ level.level }}">
+          </a>
+          <div class="card-body">
             <a
               href="{{ item.file | relative_url }}"
               target="_blank"
+              class="card-link"
               rel="noopener noreferrer"
-            >
-              <img
-                height="150px"
-                style="object-fit: contain;"
-                class="card-img-top border-bottom bg-white"
-                src="{{ item.thumbnail | relative_url}}"
-                alt="Nacional {{ item.year }} {{item.mode}}">
-            </a>
-            <div class="card-body">
-              <a
-                href="{{ item.file | relative_url }}"
-                target="_blank"
-                class="card-link"
-                rel="noopener noreferrer"
-              >Nacional {{ item.year }} Nivel {{item.level}} {{item.mode}}</a>
-            </div>
+            >OMMEB {{ edition.year }} Individual Nivel {{ level.level }}</a>
           </div>
         </div>
-      {% endif %}
+      </div>
     {% endfor %}
-    </div>
+    </div>    
   </div>
 </div>
 {% endfor %}

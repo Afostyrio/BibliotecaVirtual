@@ -20,7 +20,7 @@ layout: home
               style="object-fit: contain;"
               class="card-img-top border-bottom bg-white"
               src="../assets/img/{{nacional.thumbnail}}"
-              alt="Nacional {{ nacional.year }}">
+              alt="OMM {{ nacional.year }}">
           </a>
           <div class="card-body">
             <a
@@ -28,7 +28,7 @@ layout: home
               target="_blank"
               class="card-link"
               rel="noopener noreferrer"
-            >Nacional {{ nacional.year }}</a>
+            >OMM {{ nacional.year }}</a>
           </div>
           <div class="card-footer">{{ nacional.location }}</div>
         </div>
