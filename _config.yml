@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Biblioteca Virtual de la OBMGuanajuato
-email: onmaps@cimat.mx
+title: Biblioteca Virtual Olímpica de Joshua
+email: joshua.gonzalez@cimat.mx
 description: >- # this means to ignore newlines until "baseurl:"
   La biblioteca de entrenamientos de la OBM Guanajuato. Construida con el propósito de recopilar, conservar, compartir y construir los conocmientos adquiridos a través de entrenamientos en las Olimpiadas de Matemáticas.
 
@@ -27,8 +27,8 @@ domain: obmguanajuato.github.io       # if you want to force HTTPS, specify the 
 url: https://obmguanajuato.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /BibliotecaVirtual/      # place folder name if the site is served in a subfolder
 
-twitter_username: OBMGuanajuato
-github_username:  OBMGuanajuato
+# twitter_username: OBMGuanajuato
+github_username:  Afostyrio
 
 main-menu:
  - faq.html
@@ -49,8 +49,6 @@ collections:
   hall_of_fame:
     output: true
     permalink: '/:name/'
-  entrenamientos:
-  libros:
   selectivos_obm:
   selectivos_ofmgto:
   selectivos_ommgto:

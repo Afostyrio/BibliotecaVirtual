@@ -6,12 +6,13 @@ layout: home
 	<div class="col mb-3">
 	<h2 class="text-center">Libros y cuadernillos</h2>
 		<div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
-		{% for item in site.libros %}
+		{% assign libros = site.data.material.libros | sort: "title_id"%}
+		{% for item in libros %}
 			{% if item.topic == page.title %}
 				<div class="col">
 					<div class="card h-100 mb-3">
 						<a
-							href="{{ item.file | relative_url }}"
+							href="{{site.baseurl}}assets/pdf/Material/{{item.file}}"
 							target="_blank"
 							title="{{ item.alttext }}"
 							rel="noopener noreferrer"
@@ -20,12 +21,12 @@ layout: home
 								height="150px"
 								style="object-fit: contain;"
 								class="card-img-top border-bottom bg-white"
-								src="{{ item.thumbnail | relative_url}}"
+								src="{{site.baseurl}}assets/img/{{item.thumbnail}}"
 								alt="{{ item.title }}">
 						</a>
 						<div class="card-body">
 							<a
-								href="{{ item.file | relative_url }}"
+								href="{{site.baseurl}}assets/pdf/Material/{{item.file}}"
 								target="_blank"
 								title="{{ item.alttext }}"
 								class="card-link"
@@ -38,7 +39,11 @@ layout: home
 							</p>
 							<p class="card-text">
 								<b>Contenidos:</b>
-								{{ item.content }}
+								<ul class="list-group list-group-flush">
+									{% for subtopic in item.content %}
+									<li class="list-group-item">{{subtopic.subtopic}}</li>
+									{% endfor %}
+								</ul>
 							</p>
 						</div>
 						<div class="card-footer text-body-secondary text-end"
@@ -56,12 +61,13 @@ layout: home
 		<h2 class="text-center">Entrenamientos</h2>
 
     <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
-		{% for item in site.entrenamientos %}
+		{% assign entrenamientos = site.data.material.entrenamientos | sort: "title_id" %}
+		{% for item in entrenamientos %}
 			{% if item.topic == page.title %}
 			<div class="col">
 				<div class="card h-100 mb-3">
 					<a
-						href="{{  item.file | relative_url }}"
+						href="{{site.baseurl}}assets/pdf/Material/{{item.file}}"
 						target="_blank"
 						rel="noopener noreferrer"
 						title="{{item.alttext}}"
@@ -70,12 +76,12 @@ layout: home
 							height="150px"
 							style="object-fit: contain;"
 							class="card-img-top border-bottom bg-white"
-							src="{{  item.thumbnail | relative_url }}"
+							src="{{site.baseurl}}assets/img/{{item.thumbnail}}"
 							alt="{{ item.title }}">
 					</a>
 					<div class="card-body">
 						<a
-							href="{{  item.file | relative_url }}"
+							href="{{site.baseurl}}assets/pdf/Material/{{item.file}}"
 							target="_blank"
 							title="{{ item.alttext }}"
 							class="card-link"
