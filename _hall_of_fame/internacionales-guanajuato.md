@@ -5,7 +5,7 @@ layout: home
 ---
 
   <div class= "row">
-  {% for item in site.data.internacional_guanajuato_historico reversed%}
+  {% for item in site.data.historico.internacional_guanajuato reversed%}
   <h2 class="text-center">{{item.year}}</h2>
   <table class="table table-dark table-hover">
     <thead>

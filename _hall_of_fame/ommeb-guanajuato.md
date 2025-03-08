@@ -5,7 +5,7 @@ logo-title: ../assets/img/Logo-ommeb.png
 layout: home
 ---
   <div class= "row">
-  {% for item in site.data.ommeb_guanajuato_historico reversed%}
+  {% for item in site.data.historico.ommeb_guanajuato reversed%}
   <h2 class="text-center">{{item.year}}</h2>
   <table class="table table-dark table-hover">
     <thead>

@@ -5,7 +5,7 @@ logo-title:
 layout: home
 ---
 <div class= "row">
-  {% for olympian in site.data.somos_guanajuato %}
+  {% for olympian in site.data.historico.somos_guanajuato %}
   <h2 class="text-center">{{olympian.name}}</h2>
   {% for item in olympian.years %}
   <h3>{{item.year}}</h3>

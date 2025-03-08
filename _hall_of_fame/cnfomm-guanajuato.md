@@ -6,7 +6,7 @@ layout: home
 ---
 <!-- Ésta es, por ahora, la mejor manera de hacer esto, porque los equipos de la Femenil son un desmadre que no puede ser formateadas como yaml's (como con las otras páginas). Si se te ocurre algo mejor, inténtalo. - Joshua -->
   {% assign years = "" | split: "" %}
-  {% for participante in site.data.cnfomm_guanajuato_historico%}
+  {% for participante in site.data.historico.cnfomm_guanajuato%}
     {% assign year = participante.Year | strip %}
     {% unless years contains year %}
       {% assign years = years | push: year %}
@@ -30,7 +30,7 @@ layout: home
       {% assign niveles = "Nivel 1, Nivel 2" | split: ", " %}
       {% for nivel in niveles %}
         {% assign participants_in_level = false %}
-        {% for participante in site.data.cnfomm_guanajuato_historico %}
+        {% for participante in site.data.historico.cnfomm_guanajuato %}
           {% if participante.Year contains year and participante.Nivel contains nivel %}
             {% if participants_in_level == false %}
               <tr>
