@@ -17,7 +17,7 @@ layout: home
 			<div class="col">
 				<div class="card h-100 mb-3">
 					<a
-						href="{{site.baseurl}}assets/pdf/Nacionales/OMMEB/{{edition.year}}-{{label[0]}}-N{{level.level}}.pdf"
+						href="{{site.baseurl}}/assets/pdf/Nacionales/OMMEB/{{edition.year}}-{{label[0]}}-N{{level.level}}.pdf"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
@@ -25,12 +25,12 @@ layout: home
 							height="150px"
 							style="object-fit: contain;"
 							class="card-img-top border-bottom bg-white"
-							src="{{site.baseurl}}assets/img/{{edition.thumbnail}}"
+							src="{{site.baseurl}}/assets/img/{{edition.thumbnail}}"
 							alt="Nacional {{ edition.year }} Nivel {{level.level}} {{item.mode}}">
 					</a>
 					<div class="card-body">
 						<a
-							href="{{site.baseurl}}assets/pdf/Nacionales/OMMEB/{{edition.year}}-{{label[0]}}-N{{level.level}}.pdf"
+							href="{{site.baseurl}}/assets/pdf/Nacionales/OMMEB/{{edition.year}}-{{label[0]}}-N{{level.level}}.pdf"
 							target="_blank"
 							class="card-link"
 							rel="noopener noreferrer"

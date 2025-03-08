@@ -11,7 +11,7 @@ layout: home
       <div class="col">
         <div class="card h-100 mb-3">
           <a
-            href="{{site.baseurl}}assets/pdf/Nacionales/OMM/{{nacional.year}}.pdf"
+            href="{{site.baseurl}}/assets/pdf/Nacionales/OMM/{{nacional.year}}.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -19,12 +19,12 @@ layout: home
               height="150px"
               style="object-fit: contain;"
               class="card-img-top border-bottom bg-white"
-              src="{{site.baseurl}}assets/img/{{nacional.thumbnail}}"
+              src="{{site.baseurl}}/assets/img/{{nacional.thumbnail}}"
               alt="Nacional {{ nacional.year }}">
           </a>
           <div class="card-body">
             <a
-              href="{{site.baseurl}}assets/pdf/Nacionales/OMM/{{nacional.year}}.pdf"
+              href="{{site.baseurl}}/assets/pdf/Nacionales/OMM/{{nacional.year}}.pdf"
               target="_blank"
               class="card-link"
               rel="noopener noreferrer"
