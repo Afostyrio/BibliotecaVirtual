@@ -1,0 +1,28 @@
+- year: 2022
+  thumbnail: Logo-cnfomm.png
+  exams:
+  - mode: Nivel 1
+    tag: N1
+  - mode: Nivel 2
+    tag: N2
+  - mode: Equipos
+    tag: Equipos
+
+- year: 2023
+  thumbnail: Logo-cnfomm.png
+  exams:
+  - mode: Nivel 1
+    tag: N1
+  - mode: Nivel 2
+    tag: N2
+  - mode: Equipos
+    tag: Equipos
+
+- year: 2024
+  thumbnail: Logo-cnfomm.png
+  exams:
+  - mode: Nivel 1
+    tag: N1
+  - mode: Nivel 2
+    tag: N2
+  

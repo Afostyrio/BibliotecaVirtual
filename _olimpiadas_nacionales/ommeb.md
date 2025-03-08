@@ -5,7 +5,7 @@ logo-title: ../assets/img/Logo-ommeb.png
 layout: home
 ---
 
-{% for edition in site.data.ediciones_ommeb reversed %}
+{% for edition in site.data.nacionales_ommeb reversed %}
 <div class="row">
 	<div class="col mb-3">
 	<h2 class="text-center">{{edition.year}}</h2>

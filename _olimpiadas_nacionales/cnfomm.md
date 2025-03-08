@@ -4,17 +4,16 @@ urlname: cnfomm
 logo-title: ../assets/img/Logo-cnfomm.png
 layout: home
 ---
-{% for edition in site.data.ediciones_cnfomm reversed %}
+{% for edition in site.data.nacionales_cnfomm reversed %}
 <div class="row">
 	<div class="col mb-3">
 	<h2 class="text-center">{{edition.year}}</h2>
     <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
-    {% for item in site.nacionales_cnfomm %}
-    {% if item.year == edition.year %}
+    {% for exam in edition.exams %}
         <div class="col">
           <div class="card h-100 mb-3">
             <a
-              href="{{ item.file | relative_url }}"
+              href="{{site.baseurl}}assets/pdf/Nacionales/CNFOMM/{{edition.year}}-{{exam.tag}}.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -22,20 +21,19 @@ layout: home
                 height="150px"
                 style="object-fit: contain;"
                 class="card-img-top border-bottom bg-white"
-                src="{{ item.thumbnail | relative_url}}"
-                alt="Nacional {{ item.year }} {{item.mode}}">
+                src="{{site.baseurl}}assets/img/{{edition.thumbnail}}"
+                alt="Nacional {{ edition.year }} {{exam.mode}}">
             </a>
             <div class="card-body">
               <a
-                href="{{ item.file | relative_url }}"
+                href="{{site.baseurl}}assets/pdf/Nacionales/CNFOMM/{{edition.year}}-{{exam.tag}}.pdf"
                 target="_blank"
                 class="card-link"
                 rel="noopener noreferrer"
-              >Nacional {{ item.year }} {{item.mode}}</a>
+              >Nacional {{ item.year }} {{exam.mode}}</a>
             </div>
           </div>
         </div>
-      {% endif %}
     {% endfor %}
     </div>
   </div>
