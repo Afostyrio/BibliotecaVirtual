@@ -6,7 +6,7 @@ layout: home
 ---
 
   <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
-  {% assign nacionales = site.data.nacionales_omm | sort: "year"%}
+  {% assign nacionales = site.data.nacionales.omm | sort: "year"%}
   {% for nacional in nacionales reversed%}
       <div class="col">
         <div class="card h-100 mb-3">
