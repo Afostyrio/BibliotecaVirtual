@@ -1,14 +1,111 @@
 - year: 2017
+  thumbnail: Logo-ommeb.png
+  modes:
+  - mode: Individual
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3
+  - mode: Equipos
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3    
 
 - year: 2018
+  thumbnail: Logo-ommeb.png
+  modes:
+  - mode: Individual
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3
+  - mode: Equipos
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3    
 
 - year: 2019
+  thumbnail: Logo-ommeb.png
+  modes:
+  - mode: Individual
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3
+  - mode: Equipos
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3    
 
 - year: 2020
+  thumbnail: Logo-ommeb.png
+  modes:
+  - mode: Individual
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3
+  - mode: Equipos
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3    
 
 - year: 2021
+  thumbnail: Logo-ommeb.png
+  modes:
+  - mode: Individual
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3
+  - mode: Equipos
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3    
 
 - year: 2022
+  thumbnail: Logo-ommeb.png
+  modes:
+  - mode: Individual
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3
+  - mode: Equipos
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3    
 
 - year: 2023
+  thumbnail: Logo-ommeb.png
+  modes:
+  - mode: Individual
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3
+  - mode: Equipos
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3    
 
+- year: 2024
+  thumbnail: Logo-ommeb.png
+  modes:
+  - mode: Individual
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3
+  - mode: Equipos
+    levels:
+    - level: 1
+    - level: 2
+    - level: 3    

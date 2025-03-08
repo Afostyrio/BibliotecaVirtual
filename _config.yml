@@ -36,8 +36,6 @@ main-menu:
  - historia-y-colaboradores.html
 
 collections:
-  faqs:
-  colaboradores:
   temas:
     layout: archive
     output: true
@@ -56,6 +54,4 @@ collections:
   selectivos_obm:
   selectivos_ofmgto:
   selectivos_ommgto:
-  nacionales_ommeb:
-  nacionales_omm:
   nacionales_cnfomm:
