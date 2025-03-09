@@ -1,4 +1,5 @@
 - year: 2017
+  location: Oaxtepec, Morelos
   thumbnail: Logo-ommeb.png
   modes:
   - mode: Individual
@@ -13,6 +14,7 @@
     - level: 3    
 
 - year: 2018
+  location: Mérida, Yucatán
   thumbnail: Logo-ommeb.png
   modes:
   - mode: Individual
@@ -27,6 +29,7 @@
     - level: 3    
 
 - year: 2019
+  location: Oaxtepec, Morelos
   thumbnail: Logo-ommeb.png
   modes:
   - mode: Individual
@@ -41,6 +44,7 @@
     - level: 3    
 
 - year: 2020
+  location: Virtual
   thumbnail: Logo-ommeb.png
   modes:
   - mode: Individual
@@ -55,6 +59,7 @@
     - level: 3    
 
 - year: 2021
+  location: Virtual
   thumbnail: Logo-ommeb.png
   modes:
   - mode: Individual
@@ -69,6 +74,7 @@
     - level: 3    
 
 - year: 2022
+  location: Virtual
   thumbnail: Logo-ommeb.png
   modes:
   - mode: Individual
@@ -83,6 +89,7 @@
     - level: 3    
 
 - year: 2023
+  location: Virtual
   thumbnail: Logo-ommeb.png
   modes:
   - mode: Individual
@@ -97,6 +104,7 @@
     - level: 3    
 
 - year: 2024
+  location: Oaxtepec, Morelos
   thumbnail: Logo-ommeb.png
   modes:
   - mode: Individual

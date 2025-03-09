@@ -30,6 +30,7 @@ layout: home
               rel="noopener noreferrer"
             >Nacional {{ nacional.year }}</a>
           </div>
+          <div class="card-footer text-body-secondary text-end">{{nacional.location}}</div>
         </div>
       </div>
   {% endfor %}

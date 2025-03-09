@@ -8,6 +8,7 @@ layout: home
 <div class= "row">
   {% for item in site.data.historico.omm_guanajuato reversed %}
   <h2 class="text-center">{{item.year}}</h2>
+  <h3 class="text-center">{{item.location}}</h3>
   <table class="table table-dark table-hover">
     <thead>
       <tr>

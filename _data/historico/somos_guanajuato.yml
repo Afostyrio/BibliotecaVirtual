@@ -99,6 +99,10 @@
       level: Primaria
       achievement: Mención Honorífica
       team_achievement: 
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Participación
+      team_achievement: N/A
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
       level: Nivel 2
       achievement: Oro
@@ -599,6 +603,12 @@
 
 - name: Fernando Hernández Melo
   years:
+  - year: 2024
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Bronce
+      team_achievement: N/A
   - year: 2023
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
@@ -1372,6 +1382,12 @@
 
 - name: Juan Pablo Trejo Rendón
   years:
+  - year: 2024
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Bronce
+      team_achievement: N/A
   - year: 2023
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
@@ -1585,6 +1601,10 @@
   years:
   - year: 2024
     olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Bronce
+      team_achievement: N/A
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
       level: Nivel 3
       achievement: Mención Honorífica
@@ -1844,6 +1864,12 @@
 
 - name: Said Huizar Dorantes
   years:
+  - year: 2024
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Participación
+      team_achievement: N/A
   - year: 2023
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
@@ -1953,6 +1979,12 @@
 
 - name: Saulo Alonso Ramos Aldaco
   years:
+  - year: 2024
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Participación
+      team_achievement: N/A
   - year: 2023
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas (OMM)

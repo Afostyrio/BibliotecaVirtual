@@ -1,4 +1,5 @@
 - year: 2005
+  location: Campeche, Campeche
   team:
   - name: Julian Ferrer Ríos
     achievement: 
@@ -14,6 +15,7 @@
     achievement: Oro
 
 - year: 2006
+  location: Zacatecas, Zacatecas
   team:
   - name: Sandra Alfaro López
     achievement: Bronce
@@ -27,6 +29,7 @@
     achievement: Bronce
 
 - year: 2007
+  location: Saltillo, Coahuila
   team:
   - name: Rocío Gabriela Anguiano Soria
     achievement: 
@@ -42,6 +45,7 @@
     achievement: 
 
 - year: 2008
+  location: San Carlos, Sonora
   team:
   - name: Joshua Ayork Acevedo Carabantes
     achievement: Mención Honorífica
@@ -57,6 +61,7 @@
     achievement: 
 
 - year: 2009
+  location: Campeche, Campeche
   team:
   - name: Joshua Ayork Acevedo Carabantes
     achievement: Bronce
@@ -72,6 +77,7 @@
     achievement: 
 
 - year: 2010
+  location: Ensenada, Baja California
   team:
   - name: Joshua Ayork Acevedo Carabantes
     achievement: Plata
@@ -87,6 +93,7 @@
     achievement: Plata
 
 - year: 2011
+  location: San Luis Potosí, San Luis Potosí
   team:
   - name: Francisco Gerardo Martínez Palacios
     achievement: Bronce
@@ -102,6 +109,7 @@
     achievement: Plata
 
 - year: 2012
+  location: Guanajuato, Guanajuato
   team:
   - name: Joshua Ayork Acevedo Carabantes
     achievement: Oro
@@ -117,6 +125,7 @@
     achievement: Bronce
 
 - year: 2013
+  location: Huasca, Hidalgo
   team:
   - name: Israel Bonal Rodríguez
     achievement: Bronce
@@ -132,6 +141,7 @@
     achievement: Bronce
 
 - year: 2014
+  location: Toluca, Estado de México
   team:
   - name: Israel Bonal Rodríguez
     achievement: Oro
@@ -147,6 +157,7 @@
     achievement: 
 
 - year: 2015
+  location: Guadalajara, Jalisco
   team:
   - name: Israel Bonal Rodríguez
     achievement: Oro
@@ -162,6 +173,7 @@
     achievement: Bronce
 
 - year: 2016
+  location: Acapulco, Guerrero
   team:
   - name: Valentina Arévalo Arredondo
     achievement: Participación
@@ -177,6 +189,7 @@
     achievement: Plata
 
 - year: 2017
+  location: Santiago, Nuevo León
   team:
   - name: Josué Irad Galindo De la Serna
     achievement: Bronce
@@ -192,6 +205,7 @@
     achievement: Plata
 
 - year: 2018
+  location: Campeche, Campeche
   team:
   - name: Isaac Pancardo Botello
     achievement: Oro
@@ -207,6 +221,7 @@
     achievement: Plata
 
 - year: 2019
+  location: CDMX
   team:
   - name: Jesús Omar Sistos Barrón
     achievement: Oro
@@ -222,6 +237,7 @@
     achievement: Bronce
 
 - year: 2020
+  location: Virtual
   team:
   - name: Isaac Pancardo Botello
     achievement: Oro
@@ -237,6 +253,7 @@
     achievement: Bronce
 
 - year: 2021
+  location: Virtual
   team:
   - name: Cynthia Naely López Estrada
     achievement: Plata
@@ -252,6 +269,7 @@
     achievement: Participación
 
 - year: 2022
+  location: Oaxtepec, Morelos
   team:
   - name: Juan Pablo Amezcua González
     achievement: Plata
@@ -267,6 +285,7 @@
     achievement: Mención Honorífica
 
 - year: 2023
+  location: Durando, Durango
   team:
   - name: Roberto Eugenio Esqueda Allande
     achievement: Bronce
@@ -279,4 +298,20 @@
   - name: Saulo Alonso Ramos Aldaco
     achievement: Participación
   - name: Fernando Hernández Melo
+    achievement: Participación
+
+- year: 2024
+  location: Oaxtepec, Morelos
+  team:
+  - name: Juan Pablo Trejo Rendón
+    achievement: Bronce
+  - name: Fernando Hernández Melo
+    achievement: Bronce
+  - name: Said Huizar Dorantes
+    achievement: Participación
+  - name: Ander Alonso Albores Ramírez
+    achievement: Participación
+  - name: Mauro Gonzalo López Rico
+    achievement: Bronce
+  - name: Saulo Alonso Ramos Aldaco
     achievement: Participación

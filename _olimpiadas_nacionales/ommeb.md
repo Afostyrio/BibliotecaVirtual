@@ -9,6 +9,7 @@ layout: home
 <div class="row">
 	<div class="col mb-3">
 	<h2 class="text-center">{{edition.year}}</h2>
+	<h3 class="text-center">{{edition.location}}</h3>
 	{% for item in edition.modes %}
   <h3>{{item.mode}}</h3>
 	{% assign label = item.mode | split: '' %}

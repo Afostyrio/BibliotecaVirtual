@@ -1,4 +1,5 @@
 - year: 2022
+  location: Virtual
   thumbnail: Logo-cnfomm.png
   exams:
   - mode: Nivel 1
@@ -9,6 +10,7 @@
     tag: Equipos
 
 - year: 2023
+  location: Oaxtepec, Morelos y CDMX
   thumbnail: Logo-cnfomm.png
   exams:
   - mode: Nivel 1
@@ -19,6 +21,7 @@
     tag: Equipos
 
 - year: 2024
+  location: CDMX
   thumbnail: Logo-cnfomm.png
   exams:
   - mode: Nivel 1
