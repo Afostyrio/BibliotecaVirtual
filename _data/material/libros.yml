@@ -349,3 +349,53 @@
   - subtopic: Teorema chino del residuo
   - subtopic: Criterios de divisibilidad
 
+- title: "Desigualdades"
+  title_id: "Desigualdades"
+  year: 2013
+  thumbnail: "Logo-ome.jpg"
+  topic: "Álgebra"
+  file: "Desigualdades-3.pdf"
+  author: "Andrés Sáez Schwedt"
+  level: Avanzado - Muy avanzado
+  alttext: "Hay números más iguales que otros, y no hay nadie igual a ti."
+  content:
+  - subtopic: Desigualdades de las medias
+  - subtopic: Desigualdades de Cauchy-Schwarz y Hölder
+  - subtopic: Desigualdades de reordenación y de Chebyshev
+  - subtopic: Técnicas, estrategias, cambios de variable...
+  - subtopic: (Opcional) Desigualdades de Schur y Jensen
+  - subtopic: Problemas suplementarios
+  - subtopic: Sugerencias para algunos ejercicios
+
+- title: "Preparación para las fases regional y nacional de la Olimpíada Matemática Española 2013"
+  title_id: "Preparacion para las fases regional y nacional de la Olimpiada Matematica Espanola 2013"
+  year: 2013
+  thumbnail: "Logo-ome.jpg"
+  topic: "Material introductorio"
+  file: "Preparación-para-las-fases-regional-y-nacional-de-la-OME-2013.pdf"
+  author: "Andrés Sáez Schwedt"
+  level: Intermedio - Avanzado - Muy avanzado
+  alttext: "Han pasado más de 10 años, pero sigue siendo buen material."
+  content:
+  - subtopic: Aritmética y desigualdades
+  - subtopic: Divisibilidad y Teoría de Números
+  - subtopic: Polinomios
+  - subtopic: Geometría
+  - subtopic: Combinatoria
+  - subtopic: Ecuaciones funcionales
+
+- title: "Más Geometría"
+  title_id: "Mas Geometria"
+  year: 2013
+  thumbnail: "Logo-ome.jpg"
+  topic: "Geometría"
+  file: "Más-Geometría.pdf"
+  author: "Andrés Sáez Schwedt"
+  level: Avanzado - Muy avanzado
+  alttext: "¡Pero espera! Aún hay más."
+  content:
+  - subtopic: Teoría
+  - subtopic: Problemas resueltos mostrando técnicas
+  - subtopic: Problemas básicos para entrenar
+  - subtopic: Problemas más avanzados
+
