@@ -20,7 +20,7 @@ layout: home
               style="object-fit: contain;"
               class="card-img-top border-bottom bg-white"
               src="{{site.baseurl}}/assets/img/{{nacional.thumbnail}}"
-              alt="Nacional {{ nacional.year }}">
+              alt="OMM {{ nacional.year }}">
           </a>
           <div class="card-body">
             <a

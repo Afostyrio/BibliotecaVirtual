@@ -23,7 +23,7 @@ layout: home
                 style="object-fit: contain;"
                 class="card-img-top border-bottom bg-white"
                 src="{{site.baseurl}}/assets/img/{{edition.thumbnail}}"
-                alt="Nacional {{ edition.year }} {{exam.mode}}">
+                alt="CNFOMM {{ edition.year }} {{exam.mode}}">
             </a>
             <div class="card-body">
               <a

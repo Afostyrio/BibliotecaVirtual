@@ -35,7 +35,7 @@ layout: home
 							target="_blank"
 							class="card-link"
 							rel="noopener noreferrer"
-						>Nacional {{ edition.year }} Nivel {{level.level}} {{item.mode}}</a>
+						>OMMEB {{ edition.year }} Nivel {{level.level}} {{item.mode}}</a>
 					</div>
 				</div>
 			</div>

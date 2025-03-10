@@ -1,4 +1,5 @@
 - year: 2008
+  location: Colima, Colima
   levels:
   - level: 1<sup>ro</sup> de secundaria
     participants:
@@ -20,6 +21,7 @@
       achievement: Participación
 
 - year: 2009
+  location: Guadalajara, Jalisco
   levels:
   - level: 1<sup>ro</sup> de secundaria
     participants:
@@ -41,6 +43,7 @@
       achievement: Participación
 
 - year: 2010
+  location: Comitán, Chiapas
   levels:
   - level: 1<sup>ro</sup> de secundaria
     participants:
@@ -62,6 +65,7 @@
       achievement: Oro
 
 - year: 2011
+  location: Mérida, Yucatán
   levels:
   - level: Primaria
     participants:
@@ -89,6 +93,7 @@
       achievement: Bronce
 
 - year: 2012
+  location: La Paz, Baja California Sur
   levels:
   - level: Primaria
     participants:
@@ -116,6 +121,7 @@
       achievement: Participación
 
 - year: 2013
+  location: Culiacán, Sinaloa
   levels:
   - level: Primaria
     participants:
@@ -143,6 +149,7 @@
       achievement: Participación
 
 - year: 2014
+  location: Mazatlán, Sinaloa
   levels:
   - level: Primaria
     participants:
@@ -170,6 +177,7 @@
       achievement: Participación
 
 - year: 2015
+  location: Mexicali, Baja California
   levels:
   - level: Primaria
     participants:
@@ -197,6 +205,7 @@
       achievement: Bronce
 
 - year: 2016
+  location: Ciudad de México
   levels:
   - level: Primaria
     participants:
@@ -224,6 +233,7 @@
       achievement: Participación
 
 - year: 2017
+  location: Jeréz, Zacatecas
   levels:
   - level: Primaria
     participants:
@@ -251,6 +261,7 @@
       achievement: Oro
 
 - year: 2018
+  location: Gómez Palacio, Durango
   levels:
   - level: Primaria
     participants:
@@ -278,6 +289,7 @@
       achievement: Bronce
 
 - year: 2019
+  location: Tepic, Nayarit
   levels:
   - level: Primaria
     participants:

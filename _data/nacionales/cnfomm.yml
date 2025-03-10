@@ -10,7 +10,7 @@
     tag: Equipos
 
 - year: 2023
-  location: Oaxtepec, Morelos y CDMX
+  location: Oaxtepec, Morelos y Ciudad de México
   thumbnail: Logo-cnfomm.png
   exams:
   - mode: Nivel 1
@@ -21,7 +21,7 @@
     tag: Equipos
 
 - year: 2024
-  location: CDMX
+  location: Ciudad de México
   thumbnail: Logo-cnfomm.png
   exams:
   - mode: Nivel 1
