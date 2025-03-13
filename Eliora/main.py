@@ -1,7 +1,6 @@
 # from Elioras_handbook import *
 from material_update import *
 
-
 root = tk.Tk()
 root.title("Eliora, la última bibliotecaria")
 root.bind_class("Entry", "<Tab>", focus_next_window)
