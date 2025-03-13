@@ -1,152 +1,153 @@
-title,title_id,year,thumbnail,topic,file,author,level,alttext,
-"Algoritmo de la división, números primos e introducción a los residuos","Algoritmo de la division, numeros primos e introduccion a los residuos",2019,Logo-ommags.png,Teoría de Números,Algoritmo-de-la-división-números-primos-e-introducción-a-los-residuos.pdf,"Desconocido",Intermedio,"Lo que sobra también importa.",
-"Algunas estrategias básicas para la resolución de problemas de olimpiadas matemáticas","Algunas estrategias basicas para la resolucion de problemas de olimpiadas matematicas",2003,Logo-acm.png,Métodos de ataque de problemas,Algunas-estrategias-básicas-para-la-resolución-de-problemas-de-olimpiadas-matemáticas.pdf,"José H. Nieto",Intermedio,"¿Cómo comienzo a resolver?",
-"Ángulos","Angulos",2018,Logo-ommags.png,Geometría,Ángulos-1.pdf,"Desconocido",Básico,"¡El tema angular!",
-"Ángulos en circunferencias y cuadriláteros cíclicos","Angulos en circunferencias y cuadrilateros ciclicos",2020,Logo-ommgto.png,Geometría,Ángulos-en-circunferencias-y-cuadriláteros-cíclicos.pdf,"Israel Bonal Rodríguez",Básico,"Buen lugar donde comenzar.",
-"Ángulos en el triángulo","Angulos en el triangulo",2022,Logo.png,Geometría,Ángulos-en-el-triángulo.pdf,"Eduardo Jaziel Juárez Martínez",Básico,"Buen lugar donde comenzar.",
-"Ángulos en la circunferencia","Angulos en la circunferencia",2020,Logo-ommags.png,Geometría,Ángulos-en-la-circunferencia.pdf,"Laura Soledad Casillas Serna",Básico,"Dos líneas y un círculo salen de paseo.",
-"Ángulos entre paralelas","Angulos entre paralelas",2022,Logo.png,Geometría,Ángulos-entre-paralelas.pdf,"Eduardo Jaziel Juárez Martínez",Básico,"Buen lugar donde comenzar.",
-"Ángulos, triángulos y polígonos","Angulos, triangulos y poligonos",2023,Logo-ommf.png,Geometría,Ángulos-triángulos-y-polígonos.pdf,"Isis Mociño",Básico,"Buen lugar donde comenzar.",
-"Ángulos y congruencia de triángulos","Angulos y congruencia de triangulos",2011,Logo-acm.png,Geometría,Ángulos-y-congruencia-de-triángulos.pdf,"Laura Vielma",Básico,"Tres puntos que quiero tratar, y un ángulo entre ellos.",
-"Ángulos y congruencia de triángulosPuntos rectas y circunferencias notables en el triángulo. Teorema de Pitágoras. Terna pitagóricas","Angulos y congruencia de triangulosPuntos rectas y circunferencias notables en el triangulo. Teorema de Pitagoras. Terna pitagoricas",2011,Logo-acm.png,Geometría,Puntos-rectas-y-circunferencias-notables-en-el-triángulo-Teorema-de-Pitágoras-Ternas-pitagóricas.pdf,"Eduardo Sarabia",Básico - Intermedio,"¿Siempre puedes construir un triángulo con 3 números?",
-"Ángulos","Angulos",2020,Logo-ommags.png,Geometría,Ángulos.pdf,"Mixtli Quetzali Melchor Fuentes",Básico,"Como los buenos libros, empezamos con dos líneas.",
-"Área de polígonos","Area de poligonos",2020,Logo-ommags.png,Geometría,Área-de-polígonos.pdf,"Daniel Tzoali Arroyo Valdivia y Daniela Maribel Trancoso Cervantes",Básico,"Te darás cuenta de que todo está hecho de triángulos.",
-"Áreas, semejanzas y congruencias y teorema de Pitágoras","Areas, semejanzas y congruencias y teorema de Pitagoras",2020,Logo-ommgto.png,Geometría,Áreas-semejanzas-y-congruencias-y-teorema-de-Pitágoras.pdf,"Israel Bonal Rodríguez",Básico,"Buen lugar donde comenzar.",
-"Áreas","Areas",2022,Logo.png,Geometría,Áreas.pdf,"Alfredo Hernández Estrada",Básico,"Buen lugar donde comenzar.",
-"Aritmética","Aritmetica",2007,Logo-ommags.png,Teoría de Números,Aritmética.pdf,"Óscar Dávalos Orozco",Intermedio - Avanzado,"Números, visto desde el álgebra; o sea, sin números.",
-"Arreglos","Arreglos",2018,Logo-ommags.png,Combinatoria,Arreglos.pdf,"E. Delgado, I. Gómez, D. Rodríguez",Básico,"Quedó arreglado el conteo de arreglos.",
-"Biyecciones e introducción a las demostraciones formales","Biyecciones e introduccion a las demostraciones formales",2017,Logo-ommags.png,Métodos de ataque de problemas,Biyecciones-e-introducción-a-las-demostraciones-formales.pdf,"Gustavo Meza García",Intermedio - Avanzado,"Como todas las buenas demostraciones e historias, comenzaremos contando.",
-"Biyecciones","Biyecciones",2020,Logo-ommags.png,Combinatoria,Biyecciones.pdf,"Juan Carlos Martín Coronado",Intermedio,"Cuenta sin contar.",
-"Caminos y separadores","Caminos y separadores",2022,Logo.png,Combinatoria,Caminos-y-separadores.pdf,"Joshua S. González Torres",Intermedio,"Caminando por caminos separados.",
-"Caminos","Caminos",2022,Logo.png,Combinatoria,Caminos.pdf,"Eduardo Jaziel Juárez Martínez",Intermedio,"Caminando por aquí...",
-"Casillas e inducción","Casillas e induccion",2020,Logo-ommags.png,Métodos de ataque de problemas,Casillas-e-inducción.pdf,"Ana del Socorro Viramontes Medina",Intermedio,"El infinito, en una cantidad finita de casillas.",
-"Coloración e invarianza","Coloracion e invarianza",2020,Logo-ommags.png,Métodos de ataque de problemas,Coloración-e-invarianza.pdf,"Erik Orson Delgado Romo",Intermedio,"Colores que no cambian.",
-"Combinación lineal","Combinacion lineal",2018,Logo-ommags.png,Teoría de Números,Combinación-lineal.pdf,"Desconocido",Intermedio,"No, no es combinar en una línea. Bueno, sí, pero es una línea algebraica.",
-"Combinaciones, caminos y separadores","Combinaciones, caminos y separadores",2022,Logo-ommgto.png,Combinatoria,Combinaciones-caminos-y-separadores.pdf,"Desconocido",Intermedio,"Combinando caminos separados.",
-"Combinaciones, multicombinaciones y Newton","Combinaciones, multicombinaciones y Newton",2017,Logo-ommags.png,Combinatoria,Combinaciones-multicombinaciones-y-Newton.pdf,"Carlos Jiménez Díaz",Básico,"Newton combinaba colores y monomios.",
-"¿Cómo leer y entender problemas?","?Como leer y entender problemas?",2023,Logo-ommgto.png,Métodos de ataque de problemas,Como-leer-y-entender-problemas.pdf,"Jesús Liceaga",Básico,"Lee de nuevo. Ahora aprende a leer.",
-"Conceptos básicos de Combinatoria","Conceptos basicos de Combinatoria",2018,Logo-ommags.png,Combinatoria,Conceptos-básicos-de-Combinatoria.pdf,"E. Delgado, I. Gómez, D. Rodríguez",Intermedio,"Comencemos a contando.",
-"Concurrencias y colinealidades","Concurrencias y colinealidades",2004,Logo-acm.png,Geometría,Concurrencias-y-colinealidades.pdf,"Juan Carlos Salazar",Avanzado,"A veces concurrimos. A veces sólo nos alineamos.",
-"Congruencia y semejanza de triángulos","Congruencia y semejanza de triangulos",2008,Logo-omslp.png,Geometría,Congruencia-y-semejanza-de-triángulos.pdf,"Desconocido",Básico,"¡Sé congruente! Por lo menos semejante...",
-"Congruencia","Congruencia",2020,Logo-ommags.png,Geometría,Congruencia.pdf,"Mixtli Quetzali Melchor Fuentes",Intermedio,"'Por favor, sé congruente', exclamó el matemático.",
-"Congruencias con módulos","Congruencias con modulos",2022,Logo.png,Teoría de Números,Congruencias-con-módulos.pdf,"Emilio Toscano Oneto",Intermedio,"Dividiendo el infinito.",
-"Congruencias, órdenes y raíces primitivas","Congruencias, ordenes y raices primitivas",2019,Logo-ommgto.png,Teoría de Números,Congruencias-órdenes-y-raíces-primitivas.pdf,"Juan José Baldelomar Cabrera",Intermedio - Avanzado,"Dividiendo el infinito.",
-"Congruencias y el pequeño teorema de Fermat","Congruencias y el pequeno teorema de Fermat",2021,Logo-ommgto.png,Teoría de Números,Congruencias-y-el-pequeño-teorema-de-Fermat.pdf,"Jesús Liceaga",Básico,"Un teoremita congruente a uno mismo.",
-"Congruencias y funciones aritméticas","Congruencias y funciones aritmeticas",2021,Logo-ommgto.png,Teoría de Números,Congruencias-y-funciones-aritméticas.pdf,"Jesús Liceaga",Intermedio,"Congruencias que funcionan, ¿o funciones congruentes?",
-"Conjugados armónicos","Conjugados armonicos",2011,Logo-acm.png,Geometría,Conjugados-armónicos.pdf,"Sofía Taylor",Avanzado,"Armonía y paz interior.",
-"Consejos para problemas de argumentación","Consejos para problemas de argumentacion",2022,Logo.png,Métodos de ataque de problemas,Consejos-para-problemas-de-argumentación.pdf,"José Eduardo Payán",Básico,"Aprendiendo a escribir.",
-"Conteo","Conteo",2020,Logo-ommgto.png,Combinatoria,Conteo-1.pdf,"Alfredo Arturo Elías Miranda",Básico,"Comencemos a contar.",
-"Conteo","Conteo",2017,Logo-ommags.png,Combinatoria,Conteo-2.pdf,"Marco Montoya Martín",Básico,"Comenzando a contar.",
-"Conteo","Conteo",2013,Logo-omslp.png,Combinatoria,Conteo.pdf,"Desconocido",Básico,"Comencemos a contar.",
-"Criterios de divisibilidad","Criterios de divisibilidad",2020,Logo-ommags.png,Teoría de Números,Criterios-de-divisibilidad-1.pdf,"Daniel Tzoali Arroyo Valdivia",Básico,"¿Cómo sé si puedo dividir?",
-"Criterios de divisibilidad","Criterios de divisibilidad",2018,Logo-ommags.png,Teoría de Números,Criterios-de-divisibilidad-2.pdf,"Desconocido",Básico,"Divide sin dividir; reparte sin partir.",
-"Criterios de divisibilidad (Diapositivas)","Criterios de divisibilidad (Diapositivas)",2022,Logo-ommgto.png,Teoría de Números,Criterios-de-divisibilidad-(Diapositivas).pdf,"Jesús Liceaga",Básico,"¿Cómo saber si puedo dividir?",
-"Criterios de divisibilidad","Criterios de divisibilidad",2014,Logo.png,Teoría de Números,Criterios-de-divisibilidad.pdf,"Desconocido",Básico,"¿Cómo sé si puedo partir?",
-"Cuadriláteros cíclicos","Cuadrilateros ciclicos",2022,Logo.png,Geometría,Cuadriláteros-cíclicos-1.pdf,"Alfredo Hernández Estrada",Intermedio,"¿Ya dominas ángulos en circunferencias?",
-"Cuadriláteros cíclicos","Cuadrilateros ciclicos",2020,Logo-ommags.png,Geometría,Cuadriláteros-cíclicos-2.pdf,"Mixtli Quetzali Melchor Fuentes",Intermedio,"4 buenos puntos; en un círculo.",
-"Cuadriláteros cíclicos","Cuadrilateros ciclicos",2017,Logo-ommags.png,Geometría,Cuadriláteros-cíclicos-3.pdf,"Gustavo Meza García",Básico - Intermedio,"Cuatro buenos puntos, en un círculo.",
-"Cuadriláteros cíclicos","Cuadrilateros ciclicos",2005,cuad-ciclicos.png,Geometría,Cuadriláteros-cíclicos.pdf,"xscorpio",Intermedio,"¿Ya dominas ángulos en circunferencias?",
-"Cuadriláteros","Cuadrilateros",2011,Logo-acm.png,Geometría,Cuadriláteros.pdf,"Estefanía Ordaz",Básico - Intermedio,"Cuatro buenos puntos. A veces están en círculos.",
-"Demostraciones","Demostraciones",2017,Logo-ommags.png,Métodos de ataque de problemas,Demostraciones.pdf,"Gustavo Meza García",Intermedio - Avanzado,"Ya no sólo es resolver. ¡Demuéstralo!",
-"Desigualdades","Desigualdades",2020,Logo-ommags.png,Álgebra,Desigualdades-1.pdf,"Ricardo Antonio Gutiérrez Esparza",Intermedio,"Hay números más iguales que otros.",
-"Desigualdades","Desigualdades",2005,Logo-acm.png,Álgebra,Desigualdades-2.pdf,"José H. Nieto",Avanzado,"Hay números más iguales que otros.",
-"Desigualdades","Desigualdades",2022,Logo.png,Álgebra,Desigualdades.pdf,"Emilio Toscano Oneto",Intermedio,"Hay números más iguales que otros.",
-"Divisibilidad","Divisibilidad",2013,Logo-omt.png,Teoría de Números,Divisibilidad-1.pdf,"Desconocido",Básico,"¿Qué significa dividir realmente?",
-"Divisibilidad","Divisibilidad",2018,Logo-ommags.png,Teoría de Números,Divisibilidad-2.pdf,"Desconocido",Intermedio,"Divide sin ver los números.",
-"Divisibilidad","Divisibilidad",2017,Logo-ommags.png,Teoría de Números,Divisibilidad-3.pdf,"Gustavo Meza García",Intermedio - Avanzado,"Dividir sin conocer los números; parece magia, sólo es álgebra.",
-"Divisibilidad (Diapositivas)","Divisibilidad (Diapositivas)",2022,Logo-ommgto.png,Teoría de Números,Divisibilidad-(Diapositivas).pdf,"Jesús Liceaga",Básico,"¿Cómo saber si puedo dividir?",
-"Divisibilidad","Divisibilidad",2022,Logo.png,Teoría de Números,Divisibilidad.pdf,"Emilio Toscano Oneto",Básico,"Divide sin dividir.",
-"Doble conteo e inducción","Doble conteo e induccion",2020,Logo-ommgto.png,Combinatoria,Doble-conteo-e-inducción.pdf,"Alfredo Arturo Elías Miranda",Intermedio - Avanzado,"¿Aprendiste a contar? ¡Hora de hacerlo dos veces!",
-"Doble conteo","Doble conteo",2022,Logo.png,Combinatoria,Doble-conteo.pdf,"Eduardo Jaziel Juárez Martínez",Intermedio,"¿Aprendiste a contar? ¡Hora de hacerlo dos veces!",
-"Ecuaciones cuadráticas","Ecuaciones cuadraticas",2020,Logo-ommags.png,Álgebra,Ecuaciones-cuadráticas.pdf,"Lilia Susana Castañeda Castañeda",Intermedio,"Prepárate para conocer a la chicharronera.",
-"Ecuaciones funcionales","Ecuaciones funcionales",2018,Logo-ommgto.png,Álgebra,Ecuaciones-funcionales.pdf,"Desconocido",Intermedio - Avanzado,"Igualmente, funciona.",
-"Ecuaciones lineales","Ecuaciones lineales",2020,Logo-ommags.png,Álgebra,Ecuaciones-lineales.pdf,"Elías Loyola Campos",Básico - Intermedio,"Encuentra x (ya sé que aquí está).",
-"Ejes radicales","Ejes radicales",2022,Logo.png,Geometría,Ejes-radicales.pdf,"Alfredo Hernández Estrada",Intermedio - Avanzado,"Ve primero por potencia de punto...",
-"Factorización en primos","Factorizacion en primos",2013,Logo-omt.png,Teoría de Números,Factorización-en-primos.pdf,"Desconocido",Básico,"Esto parece reunión familiar.",
-"Factorización","Factorizacion",2019,Logo-ommags.png,Álgebra,Factorización.pdf,"Desconocido",Básico - Intermedio,"Déjame escrito la multiplicación que debo hacer y quizá la haga más tarde.",
-"Factorizaciones importantes","Factorizaciones importantes",2022,Logo.png,Álgebra,Factorizaciones-importantes.pdf,"Ángel Manuel González López",Intermedio,"Hay factores muy importantes a considerar.",
-"Fórmula de Gauss y sumas","Formula de Gauss y sumas",2017,Logo-ommags.png,Álgebra,Fórmula-de-Gauss-y-sumas.pdf,"E. Efrén González González",Básico,"¿Conoces la tragedia del maestro de Gauss?",
-"Formulario de álgebra","Formulario de algebra",2006,Logo-ommags.png,Álgebra,Formulario-de-álgebra.pdf,"Elías Loyola Campos",Intermedio,"Órale, para saber.",
-"Funciones aritméticas y teorema de Euler","Funciones aritmeticas y teorema de Euler",2022,Logo-ommgto.png,Teoría de Números,Funciones-aritmeticas-y-teorema-de-Euler.pdf,"Jesús Liceaga",Intermedio - Avanzado,"No, Patricio, la suma no es una función aritmética.",
-"Funciones generatrices","Funciones generatrices",2018,Logo-ommgto.png,Combinatoria,Funciones-generatrices.pdf,"Isaias Fernando de la Fuente Jiménez",Muy avanzado,"Generando respuestas y muchas dudas.",
-"Funciones","Funciones",2020,Logo-ommgto.png,Álgebra,Funciones.pdf,"Rubén Pérez Palacios",Intermedio,"¿Esto funciona?",
-"Homotecia y rotomotecia","Homotecia y rotomotecia",2020,Logo-ommgto.png,Geometría,Homotecia-y-rotomotecia.pdf,"Israel Bonal Rodríguez y Jesús Antonio Martinez Miranda",Intermedio,"Allá en la fuente, había un chorrito.",
-"Inducción matemática (Diapositivas)","Induccion matematica (Diapositivas)",2023,Logo-ommgto.png,Métodos de ataque de problemas,Inducción-matemática-(Diapositivas).pdf,"Jesús Rodríguez Viorato",Intermedio - Avanzado,"Abducción, deducción, ¡inducción!",
-"Inducción","Induccion",2022,Logo.png,Métodos de ataque de problemas,Inducción.pdf,"Emilio Toscano Oneto",Intermedio - Avanzado,"Tiremos un número infinito de dominós.",
-"Introducción a la teoría de números","Introduccion a la teoria de numeros",2011,Logo-acm.png,Teoría de Números,Introducción-a-la-teoría-de-números.pdf,"Carmela Acevedo, Laura Vielma",Básico - Intermedio,"¿Teoría?, ¿o sea que no son reales?",
-"Introducción al Álgebra","Introduccion al Algebra",2020,Logo-ommgto.png,Álgebra,Introducción-al-Álgebra.pdf,"Rubén Pérez Palacios",Intermedio,"Letras entre los números, ¿cómo?",
-"Introducción al conteo 2da parte","Introduccion al conteo 2da parte",2020,Logo-ommags.png,Combinatoria,Introducción-al-conteo-2da-parte.pdf,"Juan Carlos Martín Coronado",Básico,"Es hora de recordar lo que me contaste.",
-"Introducción al conteo","Introduccion al conteo",2020,Logo-ommags.png,Combinatoria,Introducción-al-conteo.pdf,"Juan Carlos Martín Coronado",Básico,"¿A poco sí sabes contar?",
-"Invariantes","Invariantes",2013,Logo-omslp.png,Métodos de ataque de problemas,Invariantes.pdf,"Desconocido",Básico - Intermedio,"¿Qué es lo que no cambia?",
-"Invarianza (Coloración)","Invarianza (Coloracion)",2020,Logo-ommgto.png,Métodos de ataque de problemas,Invarianza-(Coloración).pdf,"Sebastian Sánchez Lara",Intermedio,"Colores que no cambian, cambia entonces de color.",
-"Invarianza","Invarianza",2022,Logo.png,Métodos de ataque de problemas,Invarianza.pdf,"Emilio Toscano Oneto",Intermedio,"¿Qué es lo que no cambia?",
-"Inversión","Inversion",2019,Logo-ommgto.png,Geometría,Inversión.pdf,"Israel Bonal Rodríguez",Muy avanzado,"Voy, vuelvo y regreso.",
-"Isometrías y semejanzas en el plano","Isometrias y semejanzas en el plano",2017,Logo-acm.png,Geometría,Isometrías-y-semejanzas-en-el-plano.pdf,"José H. Nieto",Avanzado,"Mover, rotar, reflejar.",
-"Juegos de estrategia","Juegos de estrategia",2011,Logo-acm.png,Combinatoria,Juegos-de-estrategia.pdf,"José H. Nieto",Avanzado,"Mucho entrenar. Entrenemos juegos.",
-"Líneas de Simson y Euler y circunferencias de los nueve puntos","Lineas de Simson y Euler y circunferencias de los nueve puntos",2020,Logo-ommgto.png,Geometría,Líneas-de-Simson-y-Euler-y-circunferencia-de-los-nueve-puntos.pdf,"Israel Bonal Rodríguez",Avanzado,"Una serie puntos interesantes.",
-"MCD y MCM","MCD y MCM",2020,Logo-ommags.png,Teoría de Números,MCD-y-MCM-1.pdf,"Ana del Socorro Viramontes Medina y Daniela Maribel Trancoso Cervantes",Intermedio,"¿Máximo Decimo Meridio?",
-"Manipulaciones algebraicas","Manipulaciones algebraicas",2020,Logo-ommags.png,Álgebra,Manipulaciones-algebraicas.pdf,"Ricardo Antonio Gutiérrez Esparza",Intermedio,"Hay que saber jugar, expresivamente, con expresiones.",
-"Máximo común divisor y mínimo común múltiplo (Diapositivas)","Maximo comun divisor y minimo comun multiplo (Diapositivas)",2022,Logo-ommgto.png,Teoría de Números,MCD-y-MCM-(Diapositivas).pdf,"Jesús Liceaga",Intermedio,"MC ¿qué?",
-"Máximo común divisor y mínimo común múltiplo","Maximo comun divisor y minimo comun multiplo",2022,Logo.png,Teoría de Números,MCD-y-MCM.pdf,"Emilio Toscano Oneto",Intermedio,"MC ¿qué?",
-"Máximo común divisor","Maximo comun divisor",2021,Logo-ommgto.png,Teoría de Números,Máximo-común-divisor.pdf,"Jesús Liceaga",Intermedio,"El mayor divisor es interesante, el menor siempre es uno.",
-"Módulos","Modulos",2020,Logo-ommags.png,Teoría de Números,Módulos.pdf,"Juan Carlos Martín Coronado",Intermedio,"Congruencias, pero con números.",
-"Nociones básicas de Geometría","Nociones basicas de Geometria",2017,Logo-ommags.png,Geometría,Nociones-básicas-de-Geometría.pdf,"Gustavo Meza García",Básico,"Mate también es hacer figuritas.",
-"Números primos","Numeros primos",2017,Logo-ommags.png,Teoría de Números,Números-primos-1.pdf,"Gustavo Meza García",Básico,"¿Primo de quién?",
-"Números primos (Diapositivas)","Numeros primos (Diapositivas)",2022,Logo-ommgto.png,Teoría de Números,Números-primos-(Diapositivas).pdf,"Jesús Liceaga",Básico,"¿Primo de quién?",
-"Números primos y divisibilidad","Numeros primos y divisibilidad",2022,Logo.png,Teoría de Números,Números-primos-y-divisibilidad.pdf,"Joshua S. González Torres",Básico,"¿Primo de quién?",
-"Números primos","Numeros primos",2020,Logo-ommags.png,Teoría de Números,Números-primos.pdf,"Daniela Maribel Trancoso Cervantes",Básico,"Sí, todos son primos (ni idea de quién).",
-"Órdenes","Ordenes",2022,Logo-ommgto.png,Teoría de Números,Órdenes.pdf,"Jesús Liceaga",Intermedio,"Pon un orden; digo, sabemos que existe.",
-"Paridad","Paridad",2019,Logo-ommags.png,Métodos de ataque de problemas,Paridad.pdf,"Desconocido",Básico - Intermedio,"Sí, el 0 es par.",
-"Particiones","Particiones",2018,Logo-ommgto.png,Combinatoria,Particiones.pdf,"Alfredo Arturo Elías Miranda",Avanzado - Muy avanzado,"Parte y reparte.",
-"Permutaciones y combinaciones","Permutaciones y combinaciones",2018,Logo-ommags.png,Combinatoria,Permutaciones-y-combinaciones-1.pdf,"E. Delgado, I. Gómez, D. Rodríguez",Básico,"Combina, permuta y repite.",
-"Permutaciones y combinaciones","Permutaciones y combinaciones",2008,Logo-omslp.png,Combinatoria,Permutaciones-y-combinaciones.pdf,"Desconocido",Básico,"Hay que cambiar cosas de lugar aquí.",
-"Polinomios","Polinomios",2018,Logo-ommgto.png,Álgebra,Polinomios.pdf,"Pablo Meré Hidalgo",Avanzado,"Muchos monomios.",
-"Potencia de punto","Potencia de punto",2022,Logo.png,Geometría,Potencia-de-punto.pdf,"Alfredo Hernández Estrada",Intermedio,"Es como semejanza, pero con algo más.",
-"Potencia y eje radical","Potencia y eje radical",2011,Logo-acm.png,Geometría,Potencia-y-eje-radical.pdf,"Carmela Acevedo",Intermedio - Avanzado,"Un punto potente.",
-"Preálgebra","Prealgebra",2020,Logo-ommags.png,Álgebra,Preálgebra.pdf,"Lilia Susana Castañeda Castañeda",Básico,"Alguien tuvo la fenomenal idea de meter letras entre los números.",
-"Primer entrenamiento de combinatoria","Primer entrenamiento de combinatoria",2017,Logo.png,Combinatoria,Primer-Entrenamiento-de-Combinatoria.pdf,"Owen Yael Mireles Briones",Básico,"Comencemos a contar.",
-"Principio aditivo y principio multiplicativo","Principio aditivo y principio multiplicativo",2014,Logo.png,Combinatoria,Principio-aditivo-y-principio-multiplicativo.pdf,"Desconocido",Básico,"Comencemos a contar.",
-"Principio de casillas","Principio de casillas",2018,Logo-ommags.png,Métodos de ataque de problemas,Principio-de-las-casillas.pdf,"E. Delgado, I. Gómez, A. Ibarra, R. Muñoz, D. Rodríguez",Básico,"Las palomas que volaron por aquí ya encontraron su palomar.",
-"Principio de casillas","Principio de casillas",2010,Logo-ommgto.png,Métodos de ataque de problemas,Principio-de-casillas.pdf,"Desconocido",Básico - Intermedio,"Las palomas que volaron por aquí ya encontraron su lugar.",
-"Principio de inclusión-exclusión","Principio de inclusion-exclusion",2020,Logo-ommags.png,Combinatoria,Principio-de-inclusión-exclusión.pdf,"Erik Orson Delgado Romo",Intermedio,"Quítale, ponle, quítale, ponle...",
-"Principio extremo: máximos y mínimos","Principio extremo: maximos y minimos",2018,Logo-ommgto.png,Métodos de ataque de problemas,Principio-extremo-máximos-y-mínimos.pdf,"Desconocido",Básico - Intermedio,"¡Extremooo!",
-"Principio extremo","Principio extremo",2020,Logo-ommgto.png,Métodos de ataque de problemas,Principio-extremo.pdf,"Sebastian Sánchez Lara",Básico - Intermedio,"¡Extremooo!",
-"Principios básicos de conteo","Principios basicos de conteo",2010,Logo-ommgto.png,Combinatoria,Principios-básicos-de-conteo.pdf,"Desconocido",Básico,"Comencemos a contar.",
-"Principios de conteo","Principios de conteo",2022,Logo.png,Combinatoria,Principios-de-conteo.pdf,"José Eduardo Payán Sosa",Básico,"Comencemos a contar.",
-"Probabilidad","Probabilidad",2018,Logo-ommags.png,Combinatoria,Probabilidad.pdf,"E. Delgado, I. Gómez, D. Rodríguez",Básico,"Muy probablemente ya lo sepas.",
-"Productos notables","Productos notables",2019,Logo-ommags.png,Álgebra,Productos-notables.pdf,"Desconocido",Básico - Intermedio,"Por más notables que sean, los productos no están a la venta.",
-"Propiedad distributiva","Propiedad distributiva",2020,Logo-ommags.png,Álgebra,Propiedad-distributiva.pdf,"Daniela Maribel Trancoso Cervantes y Ana del Socorro Viramontes Medina",Básico - Intermedio,"Distribuye tus problemas, y tus expresiones,.",
-"Puntos y rectas del triángulo","Puntos y rectas del triangulo",2020,Logo-ommags.png,Geometría,Puntos-y-rectas-del-triángulo.pdf,"Daniel Tzoali Arroyo Valdivia",Intermedio,"Buenos puntos, buenas rectas.",
-"Puntos y rectas importantes del triángulo","Puntos y rectas importantes del triangulo",2019,Logo-ommags.png,Geometría,Puntos-y-rectas-importantes-del-triángulo.pdf,"Desconocido",Intermedio,"Unos puntos importantes, con líneas importantes.",
-"Puntos y rectas notables del triángulo","Puntos y rectas notables del triangulo",2020,Logo-ommgto.png,Geometría,Puntos-y-rectas-notables-del-triángulo.pdf,"Israel Bonal Rodríguez y Jesús Antonio Martínez Miranda",Básico - Intermedio,"Hay puntos importantes que nombrar.",
-"Reducción al absurdo","Reduccion al absurdo",2005,Logo-acm.png,Métodos de ataque de problemas,Reducción-al-absurdo.pdf,"Adolfo Rodríguez",Intermedio - Avanzado,"¿Qué tan absurdo se puede volver?",
-"Relaciones de recurrencias","Relaciones de recurrencias",2018,Logo-ommags.png,Métodos de ataque de problemas,Relaciones-de-recurrencias.pdf,"E. Delgado, I. Gómez, A. Ibarra, R. Muñoz, D. Rodríguez",Intermedio,"Pienso en esto recurrentemente.",
-"Repaso de divisibilidad y leve introducción a residuos","Repaso de divisibilidad y leve introduccion a residuos",2019,Logo-ommags.png,Teoría de Números,Repaso-de-divisibilidad-y-leve-introducción-a-residuos.pdf,"Desconocido",Intermedio,"Lo que sobra importa, sobre todo cuando repartes.",
-"Repaso de progresiones y otras sumas","Repaso de progresiones y otras sumas",2019,Logo-ommags.png,Álgebra,Repaso-de-progresiones-y-otras-sumas.pdf,"Desconocido",Básico - Intermedio,"¿Te he contado la trágica historia del maestro de Gauss?",
-"Residuos, introducción a congruencias","Residuos, introduccion a congruencias",2019,Logo-ommags.png,Teoría de Números,Residuos-introducción-a-congruencias.pdf,"Desconocido",Intermedio,"Lo que sobra importa.",
-"Resolución de ecuaciones de primer grado","Resolucion de ecuaciones de primer grado",2022,Logo.png,Álgebra,Resolución-de-ecuaciones-de-primer-grado.pdf,"Ángel Manuel González López",Intermedio,"Hay una letra ahí, ¿qué hago con ella?",
-"Semejanzas de triángulos. Teorema de Tales. Teorema de la bisectriz. Teorema del seno","Semejanzas de triangulos. Teorema de Tales. Teorema de la bisectriz. Teorema del seno",2011,Logo-acm.png,Geometría,Semejanzas-de-triángulos-Teorema-de-Tales-Teorema-de-la-bisectriz-Teorema-del-seno.pdf,"Sofía Taylor",Básico - Intermedio - Avanzado,"Esos dos triángulos como que se parecen.",
-"Separadores y caminos","Separadores y caminos",2020,Logo-ommags.png,Combinatoria,Separadores-y-caminos.pdf,"Erik Orson Delgado Romo",Intermedio,"Separando caminos, caminemos separados.",
-"Sistemas de congruencias","Sistemas de congruencias",2020,Logo-ommags.png,Teoría de Números,Sistemas-de-congruencias.pdf,"Daniel Tzoali Arroyo Valdivia",Intermedio,"En lugar de ecuaciones, congruencias.",
-"Sistemas de numeración","Sistemas de numeracion",2020,Logo-ommags.png,Teoría de Números,Sistemas-de-numeración.pdf,"Elías Loyola Campos",Intermedio,"Hay más maneras de contar que con tus dígitos.",
-"Solución de ecuaciones","Solucion de ecuaciones",2019,Logo-ommags.png,Álgebra,Solución-de-ecuaciones.pdf,"Desconocido",Intermedio,"El problema de la igualdad es antiguo.",
-"Sucesiones","Sucesiones",2020,Logo-ommags.png,Álgebra,Sucesiones.pdf,"Ricardo Antonio Gutiérrez Esparza",Básico,"Consecuencias, con secuencias.",
-"Suma de dígitos y otros asuntos","Suma de digitos y otros asuntos",2018,Logo-ommgto.png,Teoría de Números,Suma-de-dígitos-y-otros-asuntos.pdf,"Desconocido",Intermedio,"Es curioso: hay, efectivamente, 10 dígitos a tu disposición.",
-"Sumas telescópicas","Sumas telescopicas",2019,Logo-ommags.png,Álgebra,Sumas-telescópicas-1.pdf,"Desconocido",Intermedio,"Colapsa, como yo; digo, como un telescopio.",
-"Sumas telescópicas","Sumas telescopicas",2020,Logo-ommags.png,Álgebra,Sumas-telescópicas.pdf,"Ricardo Antonio Gutiérrez Esparza",Intermedio,"[Colapso]",
-"Sumas","Sumas",2018,Logo-ommags.png,Teoría de Números,Sumas.pdf,"T. Uscanga",Básico,"¿Tú sí sabes sumar? Yo no.",
-"Tales y semejanza","Tales y semejanza",2020,Logo-ommags.png,Geometría,Tales-y-semejanza.pdf,"Laura Soledad Casillas Serna",Intermedio,"Tales vio que se parecían; tales eran sus observaciones.",
+title,title_id,year,thumbnail,topic,file,author,level,alttext
+"Algoritmo de la división, números primos e introducción a los residuos","Algoritmo de la division, numeros primos e introduccion a los residuos",2019,Logo-ommags.png,Teoría de Números,Algoritmo-de-la-división-números-primos-e-introducción-a-los-residuos.pdf,"Desconocido",Intermedio,"Lo que sobra también importa."
+"Algunas estrategias básicas para la resolución de problemas de olimpiadas matemáticas","Algunas estrategias basicas para la resolucion de problemas de olimpiadas matematicas",2003,Logo-acm.png,Métodos de ataque de problemas,Algunas-estrategias-básicas-para-la-resolución-de-problemas-de-olimpiadas-matemáticas.pdf,"José H. Nieto",Intermedio,"¿Cómo comienzo a resolver?"
+"Ángulos","Angulos",2018,Logo-ommags.png,Geometría,Ángulos-1.pdf,"Desconocido",Básico,"¡El tema angular!"
+"Ángulos en circunferencias y cuadriláteros cíclicos","Angulos en circunferencias y cuadrilateros ciclicos",2020,Logo-ommgto.png,Geometría,Ángulos-en-circunferencias-y-cuadriláteros-cíclicos.pdf,"Israel Bonal Rodríguez",Básico,"Buen lugar donde comenzar."
+"Ángulos en el triángulo","Angulos en el triangulo",2022,Logo.png,Geometría,Ángulos-en-el-triángulo.pdf,"Eduardo Jaziel Juárez Martínez",Básico,"Buen lugar donde comenzar."
+"Ángulos en la circunferencia","Angulos en la circunferencia",2020,Logo-ommags.png,Geometría,Ángulos-en-la-circunferencia.pdf,"Laura Soledad Casillas Serna",Básico,"Dos líneas y un círculo salen de paseo."
+"Ángulos entre paralelas","Angulos entre paralelas",2022,Logo.png,Geometría,Ángulos-entre-paralelas.pdf,"Eduardo Jaziel Juárez Martínez",Básico,"Buen lugar donde comenzar."
+"Ángulos, triángulos y polígonos","Angulos, triangulos y poligonos",2023,Logo-ommf.png,Geometría,Ángulos-triángulos-y-polígonos.pdf,"Isis Mociño",Básico,"Buen lugar donde comenzar."
+"Ángulos y congruencia de triángulos","Angulos y congruencia de triangulos",2011,Logo-acm.png,Geometría,Ángulos-y-congruencia-de-triángulos.pdf,"Laura Vielma",Básico,"Tres puntos que quiero tratar, y un ángulo entre ellos."
+"Ángulos y congruencia de triángulosPuntos rectas y circunferencias notables en el triángulo. Teorema de Pitágoras. Terna pitagóricas","Angulos y congruencia de triangulosPuntos rectas y circunferencias notables en el triangulo. Teorema de Pitagoras. Terna pitagoricas",2011,Logo-acm.png,Geometría,Puntos-rectas-y-circunferencias-notables-en-el-triángulo-Teorema-de-Pitágoras-Ternas-pitagóricas.pdf,"Eduardo Sarabia",Básico - Intermedio,"¿Siempre puedes construir un triángulo con 3 números?"
+"Ángulos","Angulos",2020,Logo-ommags.png,Geometría,Ángulos.pdf,"Mixtli Quetzali Melchor Fuentes",Básico,"Como los buenos libros, empezamos con dos líneas."
+"Área de polígonos","Area de poligonos",2020,Logo-ommags.png,Geometría,Área-de-polígonos.pdf,"Daniel Tzoali Arroyo Valdivia y Daniela Maribel Trancoso Cervantes",Básico,"Te darás cuenta de que todo está hecho de triángulos."
+"Áreas, semejanzas y congruencias y teorema de Pitágoras","Areas, semejanzas y congruencias y teorema de Pitagoras",2020,Logo-ommgto.png,Geometría,Áreas-semejanzas-y-congruencias-y-teorema-de-Pitágoras.pdf,"Israel Bonal Rodríguez",Básico,"Buen lugar donde comenzar."
+"Áreas","Areas",2022,Logo.png,Geometría,Áreas.pdf,"Alfredo Hernández Estrada",Básico,"Buen lugar donde comenzar."
+"Aritmética","Aritmetica",2007,Logo-ommags.png,Teoría de Números,Aritmética.pdf,"Óscar Dávalos Orozco",Intermedio - Avanzado,"Números, visto desde el álgebra; o sea, sin números."
+"Arreglos","Arreglos",2018,Logo-ommags.png,Combinatoria,Arreglos.pdf,"E. Delgado, I. Gómez, D. Rodríguez",Básico,"Quedó arreglado el conteo de arreglos."
+"Biyecciones e introducción a las demostraciones formales","Biyecciones e introduccion a las demostraciones formales",2017,Logo-ommags.png,Métodos de ataque de problemas,Biyecciones-e-introducción-a-las-demostraciones-formales.pdf,"Gustavo Meza García",Intermedio - Avanzado,"Como todas las buenas demostraciones e historias, comenzaremos contando."
+"Biyecciones","Biyecciones",2020,Logo-ommags.png,Combinatoria,Biyecciones.pdf,"Juan Carlos Martín Coronado",Intermedio,"Cuenta sin contar."
+"Caminos y separadores","Caminos y separadores",2022,Logo.png,Combinatoria,Caminos-y-separadores.pdf,"Joshua S. González Torres",Intermedio,"Caminando por caminos separados."
+"Caminos","Caminos",2022,Logo.png,Combinatoria,Caminos.pdf,"Eduardo Jaziel Juárez Martínez",Intermedio,"Caminando por aquí..."
+"Casillas e inducción","Casillas e induccion",2020,Logo-ommags.png,Métodos de ataque de problemas,Casillas-e-inducción.pdf,"Ana del Socorro Viramontes Medina",Intermedio,"El infinito, en una cantidad finita de casillas."
+"Coloración e invarianza","Coloracion e invarianza",2020,Logo-ommags.png,Métodos de ataque de problemas,Coloración-e-invarianza.pdf,"Erik Orson Delgado Romo",Intermedio,"Colores que no cambian."
+"Combinación lineal","Combinacion lineal",2018,Logo-ommags.png,Teoría de Números,Combinación-lineal.pdf,"Desconocido",Intermedio,"No, no es combinar en una línea. Bueno, sí, pero es una línea algebraica."
+"Combinaciones, caminos y separadores","Combinaciones, caminos y separadores",2022,Logo-ommgto.png,Combinatoria,Combinaciones-caminos-y-separadores.pdf,"Desconocido",Intermedio,"Combinando caminos separados."
+"Combinaciones, multicombinaciones y Newton","Combinaciones, multicombinaciones y Newton",2017,Logo-ommags.png,Combinatoria,Combinaciones-multicombinaciones-y-Newton.pdf,"Carlos Jiménez Díaz",Básico,"Newton combinaba colores y monomios."
+"¿Cómo leer y entender problemas?","?Como leer y entender problemas?",2023,Logo-ommgto.png,Métodos de ataque de problemas,Como-leer-y-entender-problemas.pdf,"Jesús Liceaga",Básico,"Lee de nuevo. Ahora aprende a leer."
+"Conceptos básicos de Combinatoria","Conceptos basicos de Combinatoria",2018,Logo-ommags.png,Combinatoria,Conceptos-básicos-de-Combinatoria.pdf,"E. Delgado, I. Gómez, D. Rodríguez",Intermedio,"Comencemos a contando."
+"Concurrencias y colinealidades","Concurrencias y colinealidades",2004,Logo-acm.png,Geometría,Concurrencias-y-colinealidades.pdf,"Juan Carlos Salazar",Avanzado,"A veces concurrimos. A veces sólo nos alineamos."
+"Congruencia y semejanza de triángulos","Congruencia y semejanza de triangulos",2008,Logo-omslp.png,Geometría,Congruencia-y-semejanza-de-triángulos.pdf,"Desconocido",Básico,"¡Sé congruente! Por lo menos semejante..."
+"Congruencia","Congruencia",2020,Logo-ommags.png,Geometría,Congruencia.pdf,"Mixtli Quetzali Melchor Fuentes",Intermedio,"'Por favor, sé congruente', exclamó el matemático."
+"Congruencias con módulos","Congruencias con modulos",2022,Logo.png,Teoría de Números,Congruencias-con-módulos.pdf,"Emilio Toscano Oneto",Intermedio,"Dividiendo el infinito."
+"Congruencias, órdenes y raíces primitivas","Congruencias, ordenes y raices primitivas",2019,Logo-ommgto.png,Teoría de Números,Congruencias-órdenes-y-raíces-primitivas.pdf,"Juan José Baldelomar Cabrera",Intermedio - Avanzado,"Dividiendo el infinito."
+"Congruencias y el pequeño teorema de Fermat","Congruencias y el pequeno teorema de Fermat",2021,Logo-ommgto.png,Teoría de Números,Congruencias-y-el-pequeño-teorema-de-Fermat.pdf,"Jesús Liceaga",Básico,"Un teoremita congruente a uno mismo."
+"Congruencias y funciones aritméticas","Congruencias y funciones aritmeticas",2021,Logo-ommgto.png,Teoría de Números,Congruencias-y-funciones-aritméticas.pdf,"Jesús Liceaga",Intermedio,"Congruencias que funcionan, ¿o funciones congruentes?"
+"Conjugados armónicos","Conjugados armonicos",2011,Logo-acm.png,Geometría,Conjugados-armónicos.pdf,"Sofía Taylor",Avanzado,"Armonía y paz interior."
+"Consejos para problemas de argumentación","Consejos para problemas de argumentacion",2022,Logo.png,Métodos de ataque de problemas,Consejos-para-problemas-de-argumentación.pdf,"José Eduardo Payán",Básico,"Aprendiendo a escribir."
+"Conteo","Conteo",2020,Logo-ommgto.png,Combinatoria,Conteo-1.pdf,"Alfredo Arturo Elías Miranda",Básico,"Comencemos a contar."
+"Conteo","Conteo",2017,Logo-ommags.png,Combinatoria,Conteo-2.pdf,"Marco Montoya Martín",Básico,"Comenzando a contar."
+"Conteo","Conteo",2013,Logo-omslp.png,Combinatoria,Conteo.pdf,"Desconocido",Básico,"Comencemos a contar."
+"Criterios de divisibilidad","Criterios de divisibilidad",2020,Logo-ommags.png,Teoría de Números,Criterios-de-divisibilidad-1.pdf,"Daniel Tzoali Arroyo Valdivia",Básico,"¿Cómo sé si puedo dividir?"
+"Criterios de divisibilidad","Criterios de divisibilidad",2018,Logo-ommags.png,Teoría de Números,Criterios-de-divisibilidad-2.pdf,"Desconocido",Básico,"Divide sin dividir; reparte sin partir."
+"Criterios de divisibilidad (Diapositivas)","Criterios de divisibilidad (Diapositivas)",2022,Logo-ommgto.png,Teoría de Números,Criterios-de-divisibilidad-(Diapositivas).pdf,"Jesús Liceaga",Básico,"¿Cómo saber si puedo dividir?"
+"Criterios de divisibilidad","Criterios de divisibilidad",2014,Logo.png,Teoría de Números,Criterios-de-divisibilidad.pdf,"Desconocido",Básico,"¿Cómo sé si puedo partir?"
+"Cuadriláteros cíclicos","Cuadrilateros ciclicos",2022,Logo.png,Geometría,Cuadriláteros-cíclicos-1.pdf,"Alfredo Hernández Estrada",Intermedio,"¿Ya dominas ángulos en circunferencias?"
+"Cuadriláteros cíclicos","Cuadrilateros ciclicos",2020,Logo-ommags.png,Geometría,Cuadriláteros-cíclicos-2.pdf,"Mixtli Quetzali Melchor Fuentes",Intermedio,"4 buenos puntos; en un círculo."
+"Cuadriláteros cíclicos","Cuadrilateros ciclicos",2017,Logo-ommags.png,Geometría,Cuadriláteros-cíclicos-3.pdf,"Gustavo Meza García",Básico - Intermedio,"Cuatro buenos puntos, en un círculo."
+"Cuadriláteros cíclicos","Cuadrilateros ciclicos",2005,cuad-ciclicos.png,Geometría,Cuadriláteros-cíclicos.pdf,"xscorpio",Intermedio,"¿Ya dominas ángulos en circunferencias?"
+"Cuadriláteros","Cuadrilateros",2011,Logo-acm.png,Geometría,Cuadriláteros.pdf,"Estefanía Ordaz",Básico - Intermedio,"Cuatro buenos puntos. A veces están en círculos."
+"Demostraciones","Demostraciones",2017,Logo-ommags.png,Métodos de ataque de problemas,Demostraciones.pdf,"Gustavo Meza García",Intermedio - Avanzado,"Ya no sólo es resolver. ¡Demuéstralo!"
+"Desigualdades","Desigualdades",2020,Logo-ommags.png,Álgebra,Desigualdades-1.pdf,"Ricardo Antonio Gutiérrez Esparza",Intermedio,"Hay números más iguales que otros."
+"Desigualdades","Desigualdades",2005,Logo-acm.png,Álgebra,Desigualdades-2.pdf,"José H. Nieto",Avanzado,"Hay números más iguales que otros."
+"Desigualdades","Desigualdades",2022,Logo.png,Álgebra,Desigualdades.pdf,"Emilio Toscano Oneto",Intermedio,"Hay números más iguales que otros."
+"Divisibilidad","Divisibilidad",2013,Logo-omt.png,Teoría de Números,Divisibilidad-1.pdf,"Desconocido",Básico,"¿Qué significa dividir realmente?"
+"Divisibilidad","Divisibilidad",2018,Logo-ommags.png,Teoría de Números,Divisibilidad-2.pdf,"Desconocido",Intermedio,"Divide sin ver los números."
+"Divisibilidad","Divisibilidad",2017,Logo-ommags.png,Teoría de Números,Divisibilidad-3.pdf,"Gustavo Meza García",Intermedio - Avanzado,"Dividir sin conocer los números; parece magia, sólo es álgebra."
+"Divisibilidad (Diapositivas)","Divisibilidad (Diapositivas)",2022,Logo-ommgto.png,Teoría de Números,Divisibilidad-(Diapositivas).pdf,"Jesús Liceaga",Básico,"¿Cómo saber si puedo dividir?"
+"Divisibilidad","Divisibilidad",2022,Logo.png,Teoría de Números,Divisibilidad.pdf,"Emilio Toscano Oneto",Básico,"Divide sin dividir."
+"Doble conteo e inducción","Doble conteo e induccion",2020,Logo-ommgto.png,Combinatoria,Doble-conteo-e-inducción.pdf,"Alfredo Arturo Elías Miranda",Intermedio - Avanzado,"¿Aprendiste a contar? ¡Hora de hacerlo dos veces!"
+"Doble conteo","Doble conteo",2022,Logo.png,Combinatoria,Doble-conteo.pdf,"Eduardo Jaziel Juárez Martínez",Intermedio,"¿Aprendiste a contar? ¡Hora de hacerlo dos veces!"
+"Ecuaciones cuadráticas","Ecuaciones cuadraticas",2020,Logo-ommags.png,Álgebra,Ecuaciones-cuadráticas.pdf,"Lilia Susana Castañeda Castañeda",Intermedio,"Prepárate para conocer a la chicharronera."
+"Ecuaciones funcionales","Ecuaciones funcionales",2018,Logo-ommgto.png,Álgebra,Ecuaciones-funcionales.pdf,"Desconocido",Intermedio - Avanzado,"Igualmente, funciona."
+"Ecuaciones lineales","Ecuaciones lineales",2020,Logo-ommags.png,Álgebra,Ecuaciones-lineales.pdf,"Elías Loyola Campos",Básico - Intermedio,"Encuentra x (ya sé que aquí está)."
+"Ejes radicales","Ejes radicales",2022,Logo.png,Geometría,Ejes-radicales.pdf,"Alfredo Hernández Estrada",Intermedio - Avanzado,"Ve primero por potencia de punto..."
+"Factorización en primos","Factorizacion en primos",2013,Logo-omt.png,Teoría de Números,Factorización-en-primos.pdf,"Desconocido",Básico,"Esto parece reunión familiar."
+"Factorización","Factorizacion",2019,Logo-ommags.png,Álgebra,Factorización.pdf,"Desconocido",Básico - Intermedio,"Déjame escrito la multiplicación que debo hacer y quizá la haga más tarde."
+"Factorizaciones importantes","Factorizaciones importantes",2022,Logo.png,Álgebra,Factorizaciones-importantes.pdf,"Ángel Manuel González López",Intermedio,"Hay factores muy importantes a considerar."
+"Fórmula de Gauss y sumas","Formula de Gauss y sumas",2017,Logo-ommags.png,Álgebra,Fórmula-de-Gauss-y-sumas.pdf,"E. Efrén González González",Básico,"¿Conoces la tragedia del maestro de Gauss?"
+"Formulario de álgebra","Formulario de algebra",2006,Logo-ommags.png,Álgebra,Formulario-de-álgebra.pdf,"Elías Loyola Campos",Intermedio,"Órale, para saber."
+"Funciones aritméticas y teorema de Euler","Funciones aritmeticas y teorema de Euler",2022,Logo-ommgto.png,Teoría de Números,Funciones-aritmeticas-y-teorema-de-Euler.pdf,"Jesús Liceaga",Intermedio - Avanzado,"No, Patricio, la suma no es una función aritmética."
+"Funciones generatrices","Funciones generatrices",2018,Logo-ommgto.png,Combinatoria,Funciones-generatrices.pdf,"Isaias Fernando de la Fuente Jiménez",Muy avanzado,"Generando respuestas y muchas dudas."
+"Funciones","Funciones",2020,Logo-ommgto.png,Álgebra,Funciones.pdf,"Rubén Pérez Palacios",Intermedio,"¿Esto funciona?"
+"Homotecia y rotomotecia","Homotecia y rotomotecia",2020,Logo-ommgto.png,Geometría,Homotecia-y-rotomotecia.pdf,"Israel Bonal Rodríguez y Jesús Antonio Martinez Miranda",Intermedio,"Allá en la fuente, había un chorrito."
+"Inducción matemática (Diapositivas)","Induccion matematica (Diapositivas)",2023,Logo-ommgto.png,Métodos de ataque de problemas,Inducción-matemática-(Diapositivas).pdf,"Jesús Rodríguez Viorato",Intermedio - Avanzado,"Abducción, deducción, ¡inducción!"
+"Inducción","Induccion",2022,Logo.png,Métodos de ataque de problemas,Inducción.pdf,"Emilio Toscano Oneto",Intermedio - Avanzado,"Tiremos un número infinito de dominós."
+"Introducción a la teoría de números","Introduccion a la teoria de numeros",2011,Logo-acm.png,Teoría de Números,Introducción-a-la-teoría-de-números.pdf,"Carmela Acevedo, Laura Vielma",Básico - Intermedio,"¿Teoría?, ¿o sea que no son reales?"
+"Introducción al Álgebra","Introduccion al Algebra",2020,Logo-ommgto.png,Álgebra,Introducción-al-Álgebra.pdf,"Rubén Pérez Palacios",Intermedio,"Letras entre los números, ¿cómo?"
+"Introducción al conteo 2da parte","Introduccion al conteo 2da parte",2020,Logo-ommags.png,Combinatoria,Introducción-al-conteo-2da-parte.pdf,"Juan Carlos Martín Coronado",Básico,"Es hora de recordar lo que me contaste."
+"Introducción al conteo","Introduccion al conteo",2020,Logo-ommags.png,Combinatoria,Introducción-al-conteo.pdf,"Juan Carlos Martín Coronado",Básico,"¿A poco sí sabes contar?"
+"Invariantes","Invariantes",2013,Logo-omslp.png,Métodos de ataque de problemas,Invariantes.pdf,"Desconocido",Básico - Intermedio,"¿Qué es lo que no cambia?"
+"Invarianza (Coloración)","Invarianza (Coloracion)",2020,Logo-ommgto.png,Métodos de ataque de problemas,Invarianza-(Coloración).pdf,"Sebastian Sánchez Lara",Intermedio,"Colores que no cambian, cambia entonces de color."
+"Invarianza","Invarianza",2022,Logo.png,Métodos de ataque de problemas,Invarianza.pdf,"Emilio Toscano Oneto",Intermedio,"¿Qué es lo que no cambia?"
+"Inversión","Inversion",2019,Logo-ommgto.png,Geometría,Inversión.pdf,"Israel Bonal Rodríguez",Muy avanzado,"Voy, vuelvo y regreso."
+"Isometrías y semejanzas en el plano","Isometrias y semejanzas en el plano",2017,Logo-acm.png,Geometría,Isometrías-y-semejanzas-en-el-plano.pdf,"José H. Nieto",Avanzado,"Mover, rotar, reflejar."
+"Juegos de estrategia","Juegos de estrategia",2011,Logo-acm.png,Combinatoria,Juegos-de-estrategia.pdf,"José H. Nieto",Avanzado,"Mucho entrenar. Entrenemos juegos."
+"Líneas de Simson y Euler y circunferencias de los nueve puntos","Lineas de Simson y Euler y circunferencias de los nueve puntos",2020,Logo-ommgto.png,Geometría,Líneas-de-Simson-y-Euler-y-circunferencia-de-los-nueve-puntos.pdf,"Israel Bonal Rodríguez",Avanzado,"Una serie puntos interesantes."
+"MCD y MCM","MCD y MCM",2020,Logo-ommags.png,Teoría de Números,MCD-y-MCM-1.pdf,"Ana del Socorro Viramontes Medina y Daniela Maribel Trancoso Cervantes",Intermedio,"¿Máximo Decimo Meridio?"
+"Manipulaciones algebraicas","Manipulaciones algebraicas",2020,Logo-ommags.png,Álgebra,Manipulaciones-algebraicas.pdf,"Ricardo Antonio Gutiérrez Esparza",Intermedio,"Hay que saber jugar, expresivamente, con expresiones."
+"Máximo común divisor y mínimo común múltiplo (Diapositivas)","Maximo comun divisor y minimo comun multiplo (Diapositivas)",2022,Logo-ommgto.png,Teoría de Números,MCD-y-MCM-(Diapositivas).pdf,"Jesús Liceaga",Intermedio,"MC ¿qué?"
+"Máximo común divisor y mínimo común múltiplo","Maximo comun divisor y minimo comun multiplo",2022,Logo.png,Teoría de Números,MCD-y-MCM.pdf,"Emilio Toscano Oneto",Intermedio,"MC ¿qué?"
+"Máximo común divisor","Maximo comun divisor",2021,Logo-ommgto.png,Teoría de Números,Máximo-común-divisor.pdf,"Jesús Liceaga",Intermedio,"El mayor divisor es interesante, el menor siempre es uno."
+"Módulos","Modulos",2020,Logo-ommags.png,Teoría de Números,Módulos.pdf,"Juan Carlos Martín Coronado",Intermedio,"Congruencias, pero con números."
+"Nociones básicas de Geometría","Nociones basicas de Geometria",2017,Logo-ommags.png,Geometría,Nociones-básicas-de-Geometría.pdf,"Gustavo Meza García",Básico,"Mate también es hacer figuritas."
+"Números primos","Numeros primos",2017,Logo-ommags.png,Teoría de Números,Números-primos-1.pdf,"Gustavo Meza García",Básico,"¿Primo de quién?"
+"Números primos (Diapositivas)","Numeros primos (Diapositivas)",2022,Logo-ommgto.png,Teoría de Números,Números-primos-(Diapositivas).pdf,"Jesús Liceaga",Básico,"¿Primo de quién?"
+"Números primos y divisibilidad","Numeros primos y divisibilidad",2022,Logo.png,Teoría de Números,Números-primos-y-divisibilidad.pdf,"Joshua S. González Torres",Básico,"¿Primo de quién?"
+"Números primos","Numeros primos",2020,Logo-ommags.png,Teoría de Números,Números-primos.pdf,"Daniela Maribel Trancoso Cervantes",Básico,"Sí, todos son primos (ni idea de quién)."
+"Órdenes","Ordenes",2022,Logo-ommgto.png,Teoría de Números,Órdenes.pdf,"Jesús Liceaga",Intermedio,"Pon un orden; digo, sabemos que existe."
+"Paridad","Paridad",2019,Logo-ommags.png,Métodos de ataque de problemas,Paridad.pdf,"Desconocido",Básico - Intermedio,"Sí, el 0 es par."
+"Particiones","Particiones",2018,Logo-ommgto.png,Combinatoria,Particiones.pdf,"Alfredo Arturo Elías Miranda",Avanzado - Muy avanzado,"Parte y reparte."
+"Permutaciones y combinaciones","Permutaciones y combinaciones",2018,Logo-ommags.png,Combinatoria,Permutaciones-y-combinaciones-1.pdf,"E. Delgado, I. Gómez, D. Rodríguez",Básico,"Combina, permuta y repite."
+"Permutaciones y combinaciones","Permutaciones y combinaciones",2008,Logo-omslp.png,Combinatoria,Permutaciones-y-combinaciones.pdf,"Desconocido",Básico,"Hay que cambiar cosas de lugar aquí."
+"Polinomios","Polinomios",2018,Logo-ommgto.png,Álgebra,Polinomios.pdf,"Pablo Meré Hidalgo",Avanzado,"Muchos monomios."
+"Potencia de punto","Potencia de punto",2022,Logo.png,Geometría,Potencia-de-punto.pdf,"Alfredo Hernández Estrada",Intermedio,"Es como semejanza, pero con algo más."
+"Potencia y eje radical","Potencia y eje radical",2011,Logo-acm.png,Geometría,Potencia-y-eje-radical.pdf,"Carmela Acevedo",Intermedio - Avanzado,"Un punto potente."
+"Preálgebra","Prealgebra",2020,Logo-ommags.png,Álgebra,Preálgebra.pdf,"Lilia Susana Castañeda Castañeda",Básico,"Alguien tuvo la fenomenal idea de meter letras entre los números."
+"Primer entrenamiento de combinatoria","Primer entrenamiento de combinatoria",2017,Logo.png,Combinatoria,Primer-Entrenamiento-de-Combinatoria.pdf,"Owen Yael Mireles Briones",Básico,"Comencemos a contar."
+"Principio aditivo y principio multiplicativo","Principio aditivo y principio multiplicativo",2014,Logo.png,Combinatoria,Principio-aditivo-y-principio-multiplicativo.pdf,"Desconocido",Básico,"Comencemos a contar."
+"Principio de casillas","Principio de casillas",2018,Logo-ommags.png,Métodos de ataque de problemas,Principio-de-las-casillas.pdf,"E. Delgado, I. Gómez, A. Ibarra, R. Muñoz, D. Rodríguez",Básico,"Las palomas que volaron por aquí ya encontraron su palomar."
+"Principio de casillas","Principio de casillas",2010,Logo-ommgto.png,Métodos de ataque de problemas,Principio-de-casillas.pdf,"Desconocido",Básico - Intermedio,"Las palomas que volaron por aquí ya encontraron su lugar."
+"Principio de inclusión-exclusión","Principio de inclusion-exclusion",2020,Logo-ommags.png,Combinatoria,Principio-de-inclusión-exclusión.pdf,"Erik Orson Delgado Romo",Intermedio,"Quítale, ponle, quítale, ponle..."
+"Principio extremo: máximos y mínimos","Principio extremo: maximos y minimos",2018,Logo-ommgto.png,Métodos de ataque de problemas,Principio-extremo-máximos-y-mínimos.pdf,"Desconocido",Básico - Intermedio,"¡Extremooo!"
+"Principio extremo","Principio extremo",2020,Logo-ommgto.png,Métodos de ataque de problemas,Principio-extremo.pdf,"Sebastian Sánchez Lara",Básico - Intermedio,"¡Extremooo!"
+"Principios básicos de conteo","Principios basicos de conteo",2010,Logo-ommgto.png,Combinatoria,Principios-básicos-de-conteo.pdf,"Desconocido",Básico,"Comencemos a contar."
+"Principios de conteo","Principios de conteo",2022,Logo.png,Combinatoria,Principios-de-conteo.pdf,"José Eduardo Payán Sosa",Básico,"Comencemos a contar."
+"Probabilidad","Probabilidad",2018,Logo-ommags.png,Combinatoria,Probabilidad.pdf,"E. Delgado, I. Gómez, D. Rodríguez",Básico,"Muy probablemente ya lo sepas."
+"Productos notables","Productos notables",2019,Logo-ommags.png,Álgebra,Productos-notables.pdf,"Desconocido",Básico - Intermedio,"Por más notables que sean, los productos no están a la venta."
+"Propiedad distributiva","Propiedad distributiva",2020,Logo-ommags.png,Álgebra,Propiedad-distributiva.pdf,"Daniela Maribel Trancoso Cervantes y Ana del Socorro Viramontes Medina",Básico - Intermedio,"Distribuye tus problemas, y tus expresiones,."
+"Puntos y rectas del triángulo","Puntos y rectas del triangulo",2020,Logo-ommags.png,Geometría,Puntos-y-rectas-del-triángulo.pdf,"Daniel Tzoali Arroyo Valdivia",Intermedio,"Buenos puntos, buenas rectas."
+"Puntos y rectas importantes del triángulo","Puntos y rectas importantes del triangulo",2019,Logo-ommags.png,Geometría,Puntos-y-rectas-importantes-del-triángulo.pdf,"Desconocido",Intermedio,"Unos puntos importantes, con líneas importantes."
+"Puntos y rectas notables del triángulo","Puntos y rectas notables del triangulo",2020,Logo-ommgto.png,Geometría,Puntos-y-rectas-notables-del-triángulo.pdf,"Israel Bonal Rodríguez y Jesús Antonio Martínez Miranda",Básico - Intermedio,"Hay puntos importantes que nombrar."
+"Reducción al absurdo","Reduccion al absurdo",2005,Logo-acm.png,Métodos de ataque de problemas,Reducción-al-absurdo.pdf,"Adolfo Rodríguez",Intermedio - Avanzado,"¿Qué tan absurdo se puede volver?"
+"Relaciones de recurrencias","Relaciones de recurrencias",2018,Logo-ommags.png,Métodos de ataque de problemas,Relaciones-de-recurrencias.pdf,"E. Delgado, I. Gómez, A. Ibarra, R. Muñoz, D. Rodríguez",Intermedio,"Pienso en esto recurrentemente."
+"Repaso de divisibilidad y leve introducción a residuos","Repaso de divisibilidad y leve introduccion a residuos",2019,Logo-ommags.png,Teoría de Números,Repaso-de-divisibilidad-y-leve-introducción-a-residuos.pdf,"Desconocido",Intermedio,"Lo que sobra importa, sobre todo cuando repartes."
+"Repaso de progresiones y otras sumas","Repaso de progresiones y otras sumas",2019,Logo-ommags.png,Álgebra,Repaso-de-progresiones-y-otras-sumas.pdf,"Desconocido",Básico - Intermedio,"¿Te he contado la trágica historia del maestro de Gauss?"
+"Residuos, introducción a congruencias","Residuos, introduccion a congruencias",2019,Logo-ommags.png,Teoría de Números,Residuos-introducción-a-congruencias.pdf,"Desconocido",Intermedio,"Lo que sobra importa."
+"Resolución de ecuaciones de primer grado","Resolucion de ecuaciones de primer grado",2022,Logo.png,Álgebra,Resolución-de-ecuaciones-de-primer-grado.pdf,"Ángel Manuel González López",Intermedio,"Hay una letra ahí, ¿qué hago con ella?"
+"Semejanzas de triángulos. Teorema de Tales. Teorema de la bisectriz. Teorema del seno","Semejanzas de triangulos. Teorema de Tales. Teorema de la bisectriz. Teorema del seno",2011,Logo-acm.png,Geometría,Semejanzas-de-triángulos-Teorema-de-Tales-Teorema-de-la-bisectriz-Teorema-del-seno.pdf,"Sofía Taylor",Básico - Intermedio - Avanzado,"Esos dos triángulos como que se parecen."
+"Separadores y caminos","Separadores y caminos",2020,Logo-ommags.png,Combinatoria,Separadores-y-caminos.pdf,"Erik Orson Delgado Romo",Intermedio,"Separando caminos, caminemos separados."
+"Sistemas de congruencias","Sistemas de congruencias",2020,Logo-ommags.png,Teoría de Números,Sistemas-de-congruencias.pdf,"Daniel Tzoali Arroyo Valdivia",Intermedio,"En lugar de ecuaciones, congruencias."
+"Sistemas de numeración","Sistemas de numeracion",2020,Logo-ommags.png,Teoría de Números,Sistemas-de-numeración.pdf,"Elías Loyola Campos",Intermedio,"Hay más maneras de contar que con tus dígitos."
+"Solución de ecuaciones","Solucion de ecuaciones",2019,Logo-ommags.png,Álgebra,Solución-de-ecuaciones.pdf,"Desconocido",Intermedio,"El problema de la igualdad es antiguo."
+"Sucesiones","Sucesiones",2020,Logo-ommags.png,Álgebra,Sucesiones.pdf,"Ricardo Antonio Gutiérrez Esparza",Básico,"Consecuencias, con secuencias."
+"Suma de dígitos y otros asuntos","Suma de digitos y otros asuntos",2018,Logo-ommgto.png,Teoría de Números,Suma-de-dígitos-y-otros-asuntos.pdf,"Desconocido",Intermedio,"Es curioso: hay, efectivamente, 10 dígitos a tu disposición."
+"Sumas telescópicas","Sumas telescopicas",2019,Logo-ommags.png,Álgebra,Sumas-telescópicas-1.pdf,"Desconocido",Intermedio,"Colapsa, como yo; digo, como un telescopio."
+"Sumas telescópicas","Sumas telescopicas",2020,Logo-ommags.png,Álgebra,Sumas-telescópicas.pdf,"Ricardo Antonio Gutiérrez Esparza",Intermedio,"[Colapso]"
+"Sumas","Sumas",2018,Logo-ommags.png,Teoría de Números,Sumas.pdf,"T. Uscanga",Básico,"¿Tú sí sabes sumar? Yo no."
+"Tales y semejanza","Tales y semejanza",2020,Logo-ommags.png,Geometría,Tales-y-semejanza.pdf,"Laura Soledad Casillas Serna",Intermedio,"Tales vio que se parecían; tales eran sus observaciones."
 "Teorema chino del residuo, órdenes y residuos cuadráticos","Teorema chino del residuo, ordenes y residuos cuadraticos",2018,Logo-ommgto.png,Teoría de Números,Teorema-chino-del-residuo-órdenes-y-residuos-cuadráticos.pdf,"Myriam Hernández Ketchul",Intermedio - Avanzado,"¿Qué sobra?"
-"Teorema chino del residuo","Teorema chino del residuo",2021,Logo-ommgto.png,Teoría de Números,Teorema-chino-del-residuo.pdf,"Jesús Liceaga",Intermedio,"Sistemas congruentes de congruencias.",
-"Teorema de Pitágoras","Teorema de Pitagoras",2018,Logo-ommags.png,Geometría,Teorema-de-Pitágoras-1.pdf,"Desconocido",Básico - Intermedio,"Seguro lo conoces, ¿lo entiendes?",
-"Teorema de Pitágoras","Teorema de Pitagoras",2020,Logo-ommags.png,Geometría,Teorema-de-Pitágoras.pdf,"Laura Soledad Casillas Serna",Básico,"Probablemente te lo sepas de memoria, ¿lo sabes usar?",
-"Teorema de Stewart y círculo de Apolonio","Teorema de Stewart y circulo de Apolonio",2011,Logo-acm.png,Geometría,Teorema-de-Stewart-y-círculo-de-Apolonio.pdf,"Mauricio Marcano",Avanzado,"Como que se parece a Pitágoras, ¿no?",
-"Teorema de Tales, semejanza y congruencia","Teorema de Tales, semejanza y congruencia",2017,Logo-ommags.png,Geometría,Teorema-de-Tales-semejanza-y-congruencia.pdf,"Gustavo Meza García",Básico,"Triangulos Tales que se parecen, o Tales que son iguales.",
-"Teorema de Tales y semejanza","Teorema de Tales y semejanza",2018,Logo-ommags.png,Geometría,Teorema-de-Tales-y-semejanza.pdf,"Desconocido",Intermedio,"Paralelas Tales que...",
-"Teorema de la bisectriz","Teorema de la bisectriz",2022,Logo.png,Geometría,Teorema-de-la-bisectriz.pdf,"Alfredo Hernández Estrada",Intermedio,"Una semejanza escondida.",
-"Teorema fundamental de la Aritmética y números primos","Teorema fundamental de la Aritmetica y numeros primos",2019,Logo-ommags.png,Teoría de Números,Teorema-fundamental-de-la-aritmética-y-números-primos.pdf,"Desconocido",Básico - Intermedio,"Es tan importante, que le decimos fundamental.",
-"Teorema fundamental de la Aritmética","Teorema fundamental de la Aritmetica",2020,Logo-ommags.png,Teoría de Números,Teorema-fundamental-de-la-Aritmética.pdf,"Daniela Maribel Trancoso Cervantes",Básico - Intermedio,"Es importante, por eso le dicen fundamental.",
-"Teoremas de Ceva y Menelao","Teoremas de Ceva y Menelao",2011,Logo-acm.png,Geometría,Teoremas-de-Ceva-y-Menelao-1.pdf,"Desconocido",Avanzado,"¿Cuándo concurrimos?, ¿cuándo nos alineamos?",
-"Teoremas de Ceva y Menelao","Teoremas de Ceva y Menelao",2020,Logo-ommgto.png,Geometría,Teoremas-de-Ceva-y-Menelao.pdf,"Israel Bonal Rodríguez",Avanzado,"Coincideremos aquí.",
-"Trigonometría","Trigonometria",2011,Logo-acm.png,Geometría,Trigonometría.pdf,"Estefanía Ordaz",Avanzado,"No, no es medir trigo.",
-Trigonometría,Trigonometria,2024,Logo-ommgto.png,Geometría,Trigonometría-1.pdf,Jesús Rodríguez Viorato,Avanzado,"No, no es medir trigo.",
+"Teorema chino del residuo","Teorema chino del residuo",2021,Logo-ommgto.png,Teoría de Números,Teorema-chino-del-residuo.pdf,"Jesús Liceaga",Intermedio,"Sistemas congruentes de congruencias."
+"Teorema de Pitágoras","Teorema de Pitagoras",2018,Logo-ommags.png,Geometría,Teorema-de-Pitágoras-1.pdf,"Desconocido",Básico - Intermedio,"Seguro lo conoces, ¿lo entiendes?"
+"Teorema de Pitágoras","Teorema de Pitagoras",2020,Logo-ommags.png,Geometría,Teorema-de-Pitágoras.pdf,"Laura Soledad Casillas Serna",Básico,"Probablemente te lo sepas de memoria, ¿lo sabes usar?"
+"Teorema de Stewart y círculo de Apolonio","Teorema de Stewart y circulo de Apolonio",2011,Logo-acm.png,Geometría,Teorema-de-Stewart-y-círculo-de-Apolonio.pdf,"Mauricio Marcano",Avanzado,"Como que se parece a Pitágoras, ¿no?"
+"Teorema de Tales, semejanza y congruencia","Teorema de Tales, semejanza y congruencia",2017,Logo-ommags.png,Geometría,Teorema-de-Tales-semejanza-y-congruencia.pdf,"Gustavo Meza García",Básico,"Triangulos Tales que se parecen, o Tales que son iguales."
+"Teorema de Tales y semejanza","Teorema de Tales y semejanza",2018,Logo-ommags.png,Geometría,Teorema-de-Tales-y-semejanza.pdf,"Desconocido",Intermedio,"Paralelas Tales que..."
+"Teorema de la bisectriz","Teorema de la bisectriz",2022,Logo.png,Geometría,Teorema-de-la-bisectriz.pdf,"Alfredo Hernández Estrada",Intermedio,"Una semejanza escondida."
+"Teorema fundamental de la Aritmética y números primos","Teorema fundamental de la Aritmetica y numeros primos",2019,Logo-ommags.png,Teoría de Números,Teorema-fundamental-de-la-aritmética-y-números-primos.pdf,"Desconocido",Básico - Intermedio,"Es tan importante, que le decimos fundamental."
+"Teorema fundamental de la Aritmética","Teorema fundamental de la Aritmetica",2020,Logo-ommags.png,Teoría de Números,Teorema-fundamental-de-la-Aritmética.pdf,"Daniela Maribel Trancoso Cervantes",Básico - Intermedio,"Es importante, por eso le dicen fundamental."
+"Teoremas de Ceva y Menelao","Teoremas de Ceva y Menelao",2011,Logo-acm.png,Geometría,Teoremas-de-Ceva-y-Menelao-1.pdf,"Desconocido",Avanzado,"¿Cuándo concurrimos?, ¿cuándo nos alineamos?"
+"Teoremas de Ceva y Menelao","Teoremas de Ceva y Menelao",2020,Logo-ommgto.png,Geometría,Teoremas-de-Ceva-y-Menelao.pdf,"Israel Bonal Rodríguez",Avanzado,"Coincideremos aquí."
+"Trigonometría","Trigonometria",2011,Logo-acm.png,Geometría,Trigonometría.pdf,"Estefanía Ordaz",Avanzado,"No, no es medir trigo."
+"Trigonometría","Trigonometria",2024,Logo-ommgto.png,Geometría,Trigonometría-1.pdf,"Jesús Rodríguez Viorato",Avanzado,"No, no es medir trigo."
+"DEMO","DEMO",2020,Logo-acm.png,Métodos de ataque de problemas,Demostraciones-1.pdf,"LUisa",BA,"UE"
