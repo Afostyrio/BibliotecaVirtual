@@ -1,39 +1,40 @@
-- title: Asociación Venezolana de Competencias Matemáticas
+- name: Asociación Venezolana de Competencias Matemáticas
   link: https://www.acmven.org/
   thumbnail: Logo-acm.png
   contribution: Donaron todo el material de su página, aumentando la cantidad de entrenamientos y libros de nivel Avanzado y Muy avanzado disponibles.
 
-- title: José de Jesús Liceaga
+- name: José de Jesús Liceaga
   link: https://sites.google.com/cimat.mx/jesus-liceaga-martinez
   thumbnail: liceaga.jpeg
   contribution: Donó todo el material de su página (más de 10 archivos), llenando la sección de Teoría de Números.
 
-- title: Olimpiada Mexicana de Matemáticas en Aguascalientes
+- name: Olimpiada Mexicana de Matemáticas en Aguascalientes
   link: https://ommags.com/new/
   thumbnail: Logo-ommags.png
   contribution: Donaron el material de su página oficial, la cual fue inspiración para la creación de la Biblioteca. Su gran variedad y cantidad de entrenamientos aumentó nuestro acervo por cerca de 40 archivos.
 
-- title: Olimpiada Mexicana de Matemáticas en Guanajuato
+- name: Olimpiada Mexicana de Matemáticas en Guanajuato
   link: https://ommgto.cimat.mx/
   thumbnail: Logo-ommgto.png
   contribution: Donaron el material de su antiguo Blogspot, su página oficial actual y sus exámenes selectivos.
 
-- title: Olimpiada de Matemáticas en Veracruz
+- name: Olimpiada de Matemáticas en Veracruz
   link: http://ommveracruz.blogspot.com/
   thumbnail: Logo-ommver.png
   contribution: Donaron el material de su página oficial, resultando en la creación de la sección de Material introductorio.
 
-- title: J. Rodríguez Viorato
+- name: J. Rodríguez Viorato
   link: https://www.cimat.mx/~jesusr/es/
   thumbnail: viorato.jpg
   contribution: Donó el material de su página y de otros entrenamientos que ha dado y propuso el marco de trabajo que la Biblioteca usa actualmente.
 
-- title: Andrés Sáez Schwedt
+- name: Andrés Sáez Schwedt
   link: https://portalcientifico.unileon.es/investigadores/97490/detalle
   thumbnail: saez.jpg
   contribution: Donó tres libros elaborados para la preparación de la Olimpiada Matemática Española en el Distrito Universitario de León.
 
-- title: Olimpiada Mexicana de Matemáticas en Baja California
+- name: Olimpiada Mexicana de Matemáticas en Baja California
   link: https://ommbc.org/
   thumbnail: Logo-ommbc.png
   contribution: Donaron todo el material de su página (cerca de 50 archivos). Además, fueron una de las inspiraciones principales para la creación de esta biblioteca. Su enorme colección es profundamente bienvenida.
+

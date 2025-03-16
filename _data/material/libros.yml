@@ -1,401 +1,401 @@
 - title: "Álgebra para Olimpiadas Matemáticas"
   title_id: "Algebra para Olimpiadas Matematicas"
   year: 2015
-  thumbnail: "Logo-acm.png"
-  topic: "Álgebra"
-  file: "Álgebra-para-Olimpiadas-Matemáticas.pdf"
+  thumbnail: Logo-acm.png
+  topic: Álgebra
+  file: Álgebra-para-Olimpiadas-Matemáticas.pdf
   author: "José Heber Nieto Said"
-  level: "Básico - Intermedio - Avanzado"
+  level: Básico - Intermedio - Avanzado
   alttext: "¿Quién tuvo la idea de ponerle más símbolos a todo esto?"
   content:
-  - subtopic: Sistemas numéricos
-  - subtopic: Polinomios
-  - subtopic: Ecuaciones y Sistemas
-  - subtopic: Sucesiones
-  - subtopic: Desigualdades
-  - subtopic: Ecuaciones funcionales
+  - subtopic: "Sistemas numéricos"
+  - subtopic: "Polinomios"
+  - subtopic: "Ecuaciones y Sistemas"
+  - subtopic: "Sucesiones"
+  - subtopic: "Desigualdades"
+  - subtopic: "Ecuaciones funcionales"
 
 - title: "Combinatoria para Olimpiadas Matemáticas"
   title_id: "Combinatoria para Olimpiadas Matematicas"
   year: 2014
-  thumbnail: "Logo-acm.png"
-  topic: "Combinatoria"
-  file: "Combinatoria-para-Olimpiadas-Matemáticas.pdf"
+  thumbnail: Logo-acm.png
+  topic: Combinatoria
+  file: Combinatoria-para-Olimpiadas-Matemáticas.pdf
   author: "José Heber Nieto Said"
-  level: "Básico - Intermedio - Avanzado"
+  level: Básico - Intermedio - Avanzado
   alttext: "Esto de contar está interesante."
   content:
-  - subtopic: Competencias Matemáticas
-  - subtopic: Principios de la Combinatoria
-  - subtopic: Configuraciones típicas
-  - subtopic: Principio de las casillas
-  - subtopic: Relaciones de recurrencia
-  - subtopic: Principio de inclusiones y exclusiones
-  - subtopic: Grafos
-  - subtopic: Coloraciones
-  - subtopic: Juegos de estrategia
-  - subtopic: Principio de invarianza
+  - subtopic: "Competencias Matemáticas"
+  - subtopic: "Principios de la Combinatoria"
+  - subtopic: "Configuraciones típicas"
+  - subtopic: "Principio de las casillas"
+  - subtopic: "Relaciones de recurrencia"
+  - subtopic: "Principio de inclusiones y exclusiones"
+  - subtopic: "Grafos"
+  - subtopic: "Coloraciones"
+  - subtopic: "Juegos de estrategia"
+  - subtopic: "Principio de invarianza"
 
 - title: "Conceptos básicos de Geometría"
   title_id: "Conceptos basicos de Geometria"
   year: 2005
-  thumbnail: "intro-a-geo.png"
-  topic: "Geometría"
-  file: "Conceptos_Básicos_de_Geometría.pdf"
+  thumbnail: intro-a-geo.png
+  topic: Geometría
+  file: Conceptos_Básicos_de_Geometría.pdf
   author: "Alejandro ?"
   level: Básico
   alttext: "Todos hemos entrenado con este cuadernillo alguna vez."
   content:
-  - subtopic: Ángulos entre paralelas
-  - subtopic: Ángulos en circunferencias
-  - subtopic: Cuadriláteros cíclicos
-  - subtopic: Teorema de Tales
-  - subtopic: Semejanza de triángulos
-  - subtopic: Teorema de Pitágoras
+  - subtopic: "Ángulos entre paralelas"
+  - subtopic: "Ángulos en circunferencias"
+  - subtopic: "Cuadriláteros cíclicos"
+  - subtopic: "Teorema de Tales"
+  - subtopic: "Semejanza de triángulos"
+  - subtopic: "Teorema de Pitágoras"
 
 - title: "¿De cuántas formas?"
   title_id: "De cuantas formas"
   year: 1972
-  thumbnail: "vilenkin.png"
-  topic: "Combinatoria"
-  file: "De-cuántas-formas.pdf"
+  thumbnail: vilenkin.png
+  topic: Combinatoria
+  file: De-cuántas-formas.pdf
   author: "N. Vilenkin"
   level: Básico - Intermedio - Avanzado
   alttext: "En la URSS, ¡la Combinatoria cuenta contigo!"
   content:
-  - subtopic: Reglas generales de la combinatoria
-  - subtopic: Arreglos
-  - subtopic: Permutaciones
-  - subtopic: Combinaciones
-  - subtopic: Problemas combinatorios con limitaciones
-  - subtopic: Particiones
-  - subtopic: Tableros
-  - subtopic: Recurrencia
-  - subtopic: Series
+  - subtopic: "Reglas generales de la combinatoria"
+  - subtopic: "Arreglos"
+  - subtopic: "Permutaciones"
+  - subtopic: "Combinaciones"
+  - subtopic: "Problemas combinatorios con limitaciones"
+  - subtopic: "Particiones"
+  - subtopic: "Tableros"
+  - subtopic: "Recurrencia"
+  - subtopic: "Series"
 
 - title: "Geometría Euclidiana"
   title_id: "Geometria Euclidiana"
   year: Desconocido
-  thumbnail: "Logo-cimat.png"
-  topic: "Geometría"
-  file: "Geometría-Euclidiana.pdf"
+  thumbnail: Logo-cimat.png
+  topic: Geometría
+  file: Geometría-Euclidiana.pdf
   author: "Berta Gamboa de Buen"
-  level: "Básico - Intermedio"
+  level: Básico - Intermedio
   alttext: "Encontré esto en el fondo de una caja finita."
   content:
-  - subtopic: Notación
-  - subtopic: Razón de partición de un segmento de línea
-  - subtopic: Rectas y ángulos
-  - subtopic: Triángulos
-  - subtopic: Semejanza
-  - subtopic: Homotecia
-  - subtopic: Círculos
-  - subtopic: Medias geométrica y aritmética
-  - subtopic: Círculos homotéticos
-  - subtopic: Cuadriláteros cíclicos
-  - subtopic: Puntos homólogos y antihomólogos
-  - subtopic: Círculo de similitud
-  - subtopic: Ejercicios
+  - subtopic: "Notación"
+  - subtopic: "Razón de partición de un segmento de línea"
+  - subtopic: "Rectas y ángulos"
+  - subtopic: "Triángulos"
+  - subtopic: "Semejanza"
+  - subtopic: "Homotecia"
+  - subtopic: "Círculos"
+  - subtopic: "Medias geométrica y aritmética"
+  - subtopic: "Círculos homotéticos"
+  - subtopic: "Cuadriláteros cíclicos"
+  - subtopic: "Puntos homólogos y antihomólogos"
+  - subtopic: "Círculo de similitud"
+  - subtopic: "Ejercicios"
 
 - title: "Geometría en Olimpiadas de Matemáticas"
   title_id: "Geometria en Olimpiadas de Matematicas"
   year: 2016
-  thumbnail: "shuyriguin.png"
-  topic: "Geometría"
-  file: "Geometría en Olimpiadas de Matemáticas.pdf"
+  thumbnail: shuyriguin.png
+  topic: Geometría
+  file: Geometría en Olimpiadas de Matemáticas.pdf
   author: "Jesús Jerónimo Castro"
   level: Básico - Intermedio
   alttext: "Un gran libro de Geometría."
   content:
-  - subtopic: Ángulos entre paralelas
-  - subtopic: Ángulos en circunferencias
-  - subtopic: Teorema de Tales
-  - subtopic: Semejanza de triángulos
-  - subtopic: Teorema de Pitágoras
-  - subtopic: Cuadriláteros cíclicos
-  - subtopic: Potencia de punto
-  - subtopic: Áreas de triángulos y cuadriláteros
-  - subtopic: Puntos y rectas notables del triángulo
-  - subtopic: Teoremas de Ceva y Menelao
-  - subtopic: Teorema de Euler
-  - subtopic: Teorema de Simson
-  - subtopic: Simedianas
-  - subtopic: Polígonos circunscritos
-  - subtopic: Algunas estrategias en Geometría
+  - subtopic: "Ángulos entre paralelas"
+  - subtopic: "Ángulos en circunferencias"
+  - subtopic: "Teorema de Tales"
+  - subtopic: "Semejanza de triángulos"
+  - subtopic: "Teorema de Pitágoras"
+  - subtopic: "Cuadriláteros cíclicos"
+  - subtopic: "Potencia de punto"
+  - subtopic: "Áreas de triángulos y cuadriláteros"
+  - subtopic: "Puntos y rectas notables del triángulo"
+  - subtopic: "Teoremas de Ceva y Menelao"
+  - subtopic: "Teorema de Euler"
+  - subtopic: "Teorema de Simson"
+  - subtopic: "Simedianas"
+  - subtopic: "Polígonos circunscritos"
+  - subtopic: "Algunas estrategias en Geometría"
 
 - title: "Geometría"
   title_id: "Geometria"
   year: 2003
-  thumbnail: "Logo-ommver.png"
-  topic: "Geometría"
-  file: "Geometría.pdf"
+  thumbnail: Logo-ommver.png
+  topic: Geometría
+  file: Geometría.pdf
   author: "Porfirio Toledo Hernández"
   level: Básico - Intermedio
   alttext: "Un título conciso, un libro útil."
   content:
-  - subtopic: Ángulos
-  - subtopic: Congruencia y Semejanza
-  - subtopic: Paralelogramos
-  - subtopic: Triángulos
-  - subtopic: Circunferencias
-  - subtopic: Sugerencias a los Problemas
-  - subtopic: Referencias
+  - subtopic: "Ángulos"
+  - subtopic: "Congruencia y Semejanza"
+  - subtopic: "Paralelogramos"
+  - subtopic: "Triángulos"
+  - subtopic: "Circunferencias"
+  - subtopic: "Sugerencias a los Problemas"
+  - subtopic: "Referencias"
 
 - title: "Inducción al pensamiento matemático"
   title_id: "Induccion al pensamiento matematico"
   year: 2003
-  thumbnail: "Logo-ommver.png"
-  topic: "Material introductorio"
-  file: "Inducción-al-pensamiento-matemático.pdf"
+  thumbnail: Logo-ommver.png
+  topic: Material introductorio
+  file: Inducción-al-pensamiento-matemático.pdf
   author: "Porfirio Toledo Hernández, Francisco Gabriel Hernández Zamora, Brenda Tapia Santos, Raquiel Rufino López Martı́nez, Vı́ctor Pérez Garcı́a, Marı́a de Jesús Garcı́a Santiago, Ernesto Efrén Del Moral Ventura"
   level: Básico - Intermedio
   alttext: "No, no es esa clase de inducción."
   content:
-  - subtopic: Lógica matemática y aritmética
-  - subtopic: Geometría
-  - subtopic: Técnicas elementales de conteo
-  - subtopic: Teoría de números
-  - subtopic: Álgebra
-  - subtopic: Ejercicios de práctica
-  - subtopic: Lista de problemas
-  - subtopic: Soluciones a la lista de problemas
-  - subtopic: Bibliografía
+  - subtopic: "Lógica matemática y aritmética"
+  - subtopic: "Geometría"
+  - subtopic: "Técnicas elementales de conteo"
+  - subtopic: "Teoría de números"
+  - subtopic: "Álgebra"
+  - subtopic: "Ejercicios de práctica"
+  - subtopic: "Lista de problemas"
+  - subtopic: "Soluciones a la lista de problemas"
+  - subtopic: "Bibliografía"
 
 - title: "Matemáticas para las Olimpiadas"
   title_id: "Matematicas para las Olimpiadas"
   year: Desconocido
-  thumbnail: "Logo-cimat.png"
-  topic: "Material introductorio"
-  file: "Matemáticas-para-las-Olimpiadas.pdf"
+  thumbnail: Logo-cimat.png
+  topic: Material introductorio
+  file: Matemáticas-para-las-Olimpiadas.pdf
   author: "Helga Fetter Nathansky, Berta Gamboa de Buen, Fauso Ongay Larios"
-  level: "Básico - Intermedio"
+  level: Básico - Intermedio
   alttext: "Encontré este al fondo de una caja finita."
   content:
-  - subtopic: Geometría
-  - subtopic: Divisibilidad
-  - subtopic: Combinatoria
+  - subtopic: "Geometría"
+  - subtopic: "Divisibilidad"
+  - subtopic: "Combinatoria"
 
 - title: "Material Básico Olimpiadas de Matemáticas Veracruz"
   title_id: "Material Basico Olimpiadas de Matematicas Veracruz"
   year: 2016
-  thumbnail: "Logo-ommver.png"
-  topic: "Material introductorio"
-  file: "Material-basico-Olimpiadas-de-Matematicas-Veracruz.pdf"
+  thumbnail: Logo-ommver.png
+  topic: Material introductorio
+  file: Material-basico-Olimpiadas-de-Matematicas-Veracruz.pdf
   author: "Olimpiada Mexicana de Matemáticas en Veracruz"
   level: Básico - Intermedio - Avanzado
   alttext: "Una antología, un collage de conocimiento."
   content:
-  - subtopic: Teoría de números
-  - subtopic: Combinatoria
-  - subtopic: Geometría
-  - subtopic: Varios
+  - subtopic: "Teoría de números"
+  - subtopic: "Combinatoria"
+  - subtopic: "Geometría"
+  - subtopic: "Varios"
 
 - title: "Notas de Geometría"
   title_id: "Notas de Geometria"
   year: 2018
-  thumbnail: "Logo-ommver.png"
-  topic: "Geometría"
-  file: "Notas-de-Geometria.pdf"
+  thumbnail: Logo-ommver.png
+  topic: Geometría
+  file: Notas-de-Geometria.pdf
   author: "Porfirio Toledo Hernández"
   level: Básico - Intermedio
   alttext: "¿Sí notas que viene en las Notas?"
   content:
-  - subtopic: Ángulos
-  - subtopic: Congruencia y Semejanza
-  - subtopic: Puntos y rectas en los triángulos
-  - subtopic: Ángulos en la circunferencia
+  - subtopic: "Ángulos"
+  - subtopic: "Congruencia y Semejanza"
+  - subtopic: "Puntos y rectas en los triángulos"
+  - subtopic: "Ángulos en la circunferencia"
 
 - title: "Notas en desigualdades"
   title_id: "Notas en desigualdades"
   year: 2006
-  thumbnail: "Logo-acm.png"
-  topic: "Álgebra"
-  file: "Notas-en-desigualdades.pdf"
+  thumbnail: Logo-acm.png
+  topic: Álgebra
+  file: Notas-en-desigualdades.pdf
   author: "Leonardo Urbina"
-  level: "Intermedio - Avanzado"
+  level: Intermedio - Avanzado
   alttext: "Hay desigualdades. También las hay numéricas."
   content:
-  - subtopic: Todo cuadrado es positivo
-  - subtopic: Desigualdad de reordenamiento
-  - subtopic: <i>Smoothing principle</i>
-  - subtopic: La desigualdad MA-MG-MH
+  - subtopic: "Todo cuadrado es positivo"
+  - subtopic: "Desigualdad de reordenamiento"
+  - subtopic: "<i>Smoothing principle</i>"
+  - subtopic: "La desigualdad MA-MG-MH"
 
 - title: "Números complejos"
   title_id: "Numeros complejos"
   year: 2016
-  thumbnail: "Logo-acm.png"
-  topic: "Álgebra"
-  file: "Números-complejos.pdf"
+  thumbnail: Logo-acm.png
+  topic: Álgebra
+  file: Números-complejos.pdf
   author: "Rafael Sánchez Lamoneda, José Heber Nieto Said"
-  level: "Avanzado - Muy avanzado"
+  level: Avanzado - Muy avanzado
   alttext: "Esto ya se puso complejo."
   content:
-  - subtopic: Introducción
-  - subtopic: Definiciones y representación geométrica
-  - subtopic: Operaciones con números complejos
-  - subtopic: Geometría en el plano complejo
-  - subtopic: Forma polar o trigonométrica
-  - subtopic: Transformaciones geométricas
+  - subtopic: "Introducción"
+  - subtopic: "Definiciones y representación geométrica"
+  - subtopic: "Operaciones con números complejos"
+  - subtopic: "Geometría en el plano complejo"
+  - subtopic: "Forma polar o trigonométrica"
+  - subtopic: "Transformaciones geométricas"
 
 - title: "Olimpiada Mexicana de Matemáticas Veracruz"
   title_id: "Olimpiada Mexicana de Matematicas Veracruz"
   year: 2005
-  thumbnail: "Logo-ommver.png"
-  topic: "Material introductorio"
-  file: "Olimpiada-Mexicana-de-Matemáticas-Veracruz.pdf"
+  thumbnail: Logo-ommver.png
+  topic: Material introductorio
+  file: Olimpiada-Mexicana-de-Matemáticas-Veracruz.pdf
   author: "Porfirio Toledo Hernández"
   level: Básico - Intermedio
   alttext: "Lo necesario para comenzar."
   content:
-  - subtopic: Combinatoria
-  - subtopic: Teoría de Números
-  - subtopic: Geometría
+  - subtopic: "Combinatoria"
+  - subtopic: "Teoría de Números"
+  - subtopic: "Geometría"
 
 - title: "Olimpiadas de Matemáticas en Guanajuato"
   title_id: "Olimpiadas de Matematicas en Guanajuato"
   year: 2018
-  thumbnail: "Logo.png"
-  topic: "Material introductorio"
-  file: "Olimpiadas-de-Matemáticas-en-Guanajuato.pdf"
+  thumbnail: Logo.png
+  topic: Material introductorio
+  file: Olimpiadas-de-Matemáticas-en-Guanajuato.pdf
   author: "Cecilia Edith Hernández Fregoso, Christian Ojeda Trejo, José de Jesús Contreras Arredondo, Luis Islas Cruz, María Alejandra Valdez Cabrera, María de Lourdes Oros Barrón"
   level: Básico
   alttext: "Gracias a todos los que lo hicieron posible."
   content:
-  - subtopic: Cartas de los autores
-  - subtopic: Un poco de historia
-  - subtopic: Aritmética
-  - subtopic: Álgebra
-  - subtopic: Teoría de Números
-  - subtopic: Combinatoria
-  - subtopic: Geometría
-  - subtopic: Sección de problemas
-  - subtopic: Sección de soluciones
+  - subtopic: "Cartas de los autores"
+  - subtopic: "Un poco de historia"
+  - subtopic: "Aritmética"
+  - subtopic: "Álgebra"
+  - subtopic: "Teoría de Números"
+  - subtopic: "Combinatoria"
+  - subtopic: "Geometría"
+  - subtopic: "Sección de problemas"
+  - subtopic: "Sección de soluciones"
 
 - title: "Primer entrenamiento de Teoría de Números"
   title_id: "Primer entrenamiento de Teoria de Numeros"
   year: 2021
-  thumbnail: "Logo-ommgto.png"
-  topic: "Teoría de Números"
-  file: "Primer-entrenamiento-de-Teoria-de-Numeros.pdf"
+  thumbnail: Logo-ommgto.png
+  topic: Teoría de Números
+  file: Primer-entrenamiento-de-Teoria-de-Numeros.pdf
   author: "Jesús Liceaga"
   level: Básico
   alttext: "Comenzaremos con el 1, ya de ahí es trivial."
   content:
-  - subtopic: Divisibilidad
-  - subtopic: Números primos
-  - subtopic: Teorema fundamental del Aritmética
-  - subtopic: Algoritmo de la división
-  - subtopic: Mínimo común múltiplo
-  - subtopic: Máximo común divisor
+  - subtopic: "Divisibilidad"
+  - subtopic: "Números primos"
+  - subtopic: "Teorema fundamental del Aritmética"
+  - subtopic: "Algoritmo de la división"
+  - subtopic: "Mínimo común múltiplo"
+  - subtopic: "Máximo común divisor"
 
 - title: "Problemas básicos de razonamiento matemático"
   title_id: "Problemas basicos de razonamiento matematico"
   year: 2023
-  thumbnail: "Logo-ommver.png"
-  topic: "Material introductorio"
-  file: "Problemas-basicos-de-razonamiento-matematico.pdf"
+  thumbnail: Logo-ommver.png
+  topic: Material introductorio
+  file: Problemas-basicos-de-razonamiento-matematico.pdf
   author: "Porfirio Toledo Hernández, Brenda Tapia Santos, Francisco Gabriel Hernández Zamora"
   level: Básico - Intermedio
   alttext: "¿Querías problemas, eh?"
   content:
-  - subtopic: Geometría
-  - subtopic: Aritmética
-  - subtopic: Álgebra
-  - subtopic: Conteo
-  - subtopic: Lógica
-  - subtopic: Bibliografía
+  - subtopic: "Geometría"
+  - subtopic: "Aritmética"
+  - subtopic: "Álgebra"
+  - subtopic: "Conteo"
+  - subtopic: "Lógica"
+  - subtopic: "Bibliografía"
 
 - title: "Teoría de Números para Olimpiadas Matemáticas"
   title_id: "Teoria de Numeros para Olimpiadas Matematicas"
   year: 2015
-  thumbnail: "Logo-acm.png"
-  topic: "Teoría de Números"
-  file: "Teoría-de-Números-para-Olimpiadas-Matemáticas.pdf"
+  thumbnail: Logo-acm.png
+  topic: Teoría de Números
+  file: Teoría-de-Números-para-Olimpiadas-Matemáticas.pdf
   author: "José Heber Nieto Said"
-  level: "Básico - Intermedio - Avanzado"
+  level: Básico - Intermedio - Avanzado
   alttext: "Esos símbolos raros con los que escribes, ¿cómo los llamas?"
   content:
-  - subtopic: Números naturales
-  - subtopic: Números enteros
-  - subtopic: Congruencias
-  - subtopic: Ecuaciones diofánticas
-  - subtopic: Residuos cuadráticos
+  - subtopic: "Números naturales"
+  - subtopic: "Números enteros"
+  - subtopic: "Congruencias"
+  - subtopic: "Ecuaciones diofánticas"
+  - subtopic: "Residuos cuadráticos"
 
 - title: "Teoría elemental de los números para olimpíadas matemáticas"
   title_id: "Teoria elemental de los numeros para olimpiadas matematicas"
   year: 2010
-  thumbnail: "teo-elem-num.png"
-  topic: "Teoría de Números"
-  file: "Teoría-elemental-de-los-números.pdf"
+  thumbnail: teo-elem-num.png
+  topic: Teoría de Números
+  file: Teoría-elemental-de-los-números.pdf
   author: "David A. Santos"
   level: Básico
   alttext: "Un libro introductorio bastante completo."
   content:
-  - subtopic: Inducción
-  - subtopic: Principio del Buen orden
-  - subtopic: Principio de las pichoneras de Dirichlet
-  - subtopic: Divisibilidad y algoritmo de la división
-  - subtopic: Máximo común divisor
-  - subtopic: Números primos
-  - subtopic: Algoritmo de Euclides
-  - subtopic: Ecuaciones diofánticas lineales
-  - subtopic: Funciones multiplicativas
-  - subtopic: Función parte entera
-  - subtopic: Congruencias
-  - subtopic: Sistemas residuales
-  - subtopic: Teorema de Fermat
-  - subtopic: Teorema de Wilson
-  - subtopic: Teorema de Euler
-  - subtopic: Teorema chino del residuo
-  - subtopic: Criterios de divisibilidad
+  - subtopic: "Inducción"
+  - subtopic: "Principio del Buen orden"
+  - subtopic: "Principio de las pichoneras de Dirichlet"
+  - subtopic: "Divisibilidad y algoritmo de la división"
+  - subtopic: "Máximo común divisor"
+  - subtopic: "Números primos"
+  - subtopic: "Algoritmo de Euclides"
+  - subtopic: "Ecuaciones diofánticas lineales"
+  - subtopic: "Funciones multiplicativas"
+  - subtopic: "Función parte entera"
+  - subtopic: "Congruencias"
+  - subtopic: "Sistemas residuales"
+  - subtopic: "Teorema de Fermat"
+  - subtopic: "Teorema de Wilson"
+  - subtopic: "Teorema de Euler"
+  - subtopic: "Teorema chino del residuo"
+  - subtopic: "Criterios de divisibilidad"
 
 - title: "Desigualdades"
   title_id: "Desigualdades"
   year: 2013
-  thumbnail: "Logo-ome.jpg"
-  topic: "Álgebra"
-  file: "Desigualdades-3.pdf"
+  thumbnail: Logo-ome.jpg
+  topic: Álgebra
+  file: Desigualdades-3.pdf
   author: "Andrés Sáez Schwedt"
   level: Avanzado - Muy avanzado
   alttext: "Hay números más iguales que otros, y no hay nadie igual a ti."
   content:
-  - subtopic: Desigualdades de las medias
-  - subtopic: Desigualdades de Cauchy-Schwarz y Hölder
-  - subtopic: Desigualdades de reordenación y de Chebyshev
-  - subtopic: Técnicas, estrategias, cambios de variable...
-  - subtopic: (Opcional) Desigualdades de Schur y Jensen
-  - subtopic: Problemas suplementarios
-  - subtopic: Sugerencias para algunos ejercicios
+  - subtopic: "Desigualdades de las medias"
+  - subtopic: "Desigualdades de Cauchy-Schwarz y Hölder"
+  - subtopic: "Desigualdades de reordenación y de Chebyshev"
+  - subtopic: "Técnicas, estrategias, cambios de variable..."
+  - subtopic: "(Opcional) Desigualdades de Schur y Jensen"
+  - subtopic: "Problemas suplementarios"
+  - subtopic: "Sugerencias para algunos ejercicios"
 
 - title: "Preparación para las fases regional y nacional de la Olimpíada Matemática Española 2013"
   title_id: "Preparacion para las fases regional y nacional de la Olimpiada Matematica Espanola 2013"
   year: 2013
-  thumbnail: "Logo-ome.jpg"
-  topic: "Material introductorio"
-  file: "Preparación-para-las-fases-regional-y-nacional-de-la-OME-2013.pdf"
+  thumbnail: Logo-ome.jpg
+  topic: Material introductorio
+  file: Preparación-para-las-fases-regional-y-nacional-de-la-OME-2013.pdf
   author: "Andrés Sáez Schwedt"
   level: Intermedio - Avanzado - Muy avanzado
   alttext: "Han pasado más de 10 años, pero sigue siendo buen material."
   content:
-  - subtopic: Aritmética y desigualdades
-  - subtopic: Divisibilidad y Teoría de Números
-  - subtopic: Polinomios
-  - subtopic: Geometría
-  - subtopic: Combinatoria
-  - subtopic: Ecuaciones funcionales
+  - subtopic: "Aritmética y desigualdades"
+  - subtopic: "Divisibilidad y Teoría de Números"
+  - subtopic: "Polinomios"
+  - subtopic: "Geometría"
+  - subtopic: "Combinatoria"
+  - subtopic: "Ecuaciones funcionales"
 
 - title: "Más Geometría"
   title_id: "Mas Geometria"
   year: 2013
-  thumbnail: "Logo-ome.jpg"
-  topic: "Geometría"
-  file: "Más-Geometría.pdf"
+  thumbnail: Logo-ome.jpg
+  topic: Geometría
+  file: Más-Geometría.pdf
   author: "Andrés Sáez Schwedt"
   level: Avanzado - Muy avanzado
   alttext: "¡Pero espera! Aún hay más."
   content:
-  - subtopic: Teoría
-  - subtopic: Problemas resueltos mostrando técnicas
-  - subtopic: Problemas básicos para entrenar
-  - subtopic: Problemas más avanzados
+  - subtopic: "Teoría"
+  - subtopic: "Problemas resueltos mostrando técnicas"
+  - subtopic: "Problemas básicos para entrenar"
+  - subtopic: "Problemas más avanzados"
 
