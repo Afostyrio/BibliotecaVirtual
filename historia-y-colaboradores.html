@@ -44,7 +44,7 @@ order: 4
 						</div>
 					</div>
           <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4"">
-            {% assign colaboradores = site.data.colaboradores | sort: "title" %}
+            {% assign colaboradores = site.data.colaboradores | sort: "name" %}
             {% for item in colaboradores %}
             <div class="col">
               <div class="card h-100 mb-3">
