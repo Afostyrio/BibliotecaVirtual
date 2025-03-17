@@ -1,5 +1,5 @@
 ---
 title: "Material introductorio"
-layout: archive
+layout: archive_only_books
 urlname: material-introductorio
 ---
