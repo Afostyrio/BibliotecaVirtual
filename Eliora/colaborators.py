@@ -36,7 +36,7 @@ def add_colaborator(root):
         new_colaborator_name_entry.get(),
         new_colaborator_link_entry.get(),
         new_colaborator_thumbnail_combobox.get(),
-        new_colaborator_contribution_entry.get(),
+        new_colaborator_contribution_text.get(1.0, tk.END),
         new_colaborator_tab
     ))
     add_new_colaborator_button.grid(row=4, column=1)
@@ -49,6 +49,6 @@ def add_new_colaborator( # Función para registrar el colaborador
     tab
 ):
     with open("_data/colaboradores.yml", 'a') as f:
-        f.write(f"""- name: {name}\n  link: {link}\n  thumbnail: {thumbnail}\n  contribution:{contribution}\n\n""")
+        f.write(f"""- name: {name}\n  link: {link}\n  thumbnail: {thumbnail}\n  contribution: {contribution}\n\n""")
     tab.destroy()
     tab.update()

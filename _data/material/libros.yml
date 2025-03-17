@@ -399,3 +399,39 @@
   - subtopic: "Problemas básicos para entrenar"
   - subtopic: "Problemas más avanzados"
 
+- title: "Aritmética"
+  title_id: "Aritmetica"
+  year: 2016
+  thumbnail: Logo-fceual.jpg
+  topic: Teoría de Números
+  file: Aritmética-1.pdf
+  author: "Desconocido"
+  level: Intermedio - Avanzado
+  alttext: "¿Por qué nos inventamos símbolos tan extraños?"
+  content:
+    - subtopic: Números enteros
+    - subtopic: Divisibilidad
+    - subtopic: Factorización
+    - subtopic: Congruencias
+    - subtopic: Teoremas de Fermat y Euler
+
+- title: "Las fracciones maravillosas"
+  title_id: "Las fracciones maravillosas"
+  year: 2014
+  thumbnail: Logo-fceual.jpg
+  topic: Álgebra
+  file: Las-fracciones-maravillosas.pdf
+  author: "Andrei Martínez Finkelshtein"
+  level: Avanzado
+  alttext: "No sé de qué habla este señor, a mí no me gustan las fracciones."
+  content:
+    - subtopic: Introducción
+    - subtopic: Calendarios y ruedas dentadas
+    - subtopic: Fracciones continuas y algoritmo de Euclides
+    - subtopic: Propiedades básicas de las fracciones continuas
+    - subtopic: Dos ejemplos
+    - subtopic: Números cuadráticos
+    - subtopic: Ecuación de Pell
+    - subtopic: Ecuaciones diofánticas
+    - subtopic: De postre, tres curiosidades
+
