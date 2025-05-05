@@ -3,6 +3,7 @@ title: Olimpiada Mexicana de Matemáticas
 urlname: omm-guanajuato
 logo-title: ../assets/img/Logo-omm.png
 layout: home
+altname: Guanajuatenses en la OMM
 ---
 
 <div class= "row">

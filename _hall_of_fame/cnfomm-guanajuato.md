@@ -3,6 +3,7 @@ title: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas
 urlname: cnfomm-guanajuato
 logo-title: ../assets/img/Logo-cnfomm.png
 layout: home
+altname: Guanajuatenses en el CNFOMM
 ---
 <!-- Ésta es, por ahora, la mejor manera de hacer esto, porque los equipos de la Femenil son un desmadre que no puede ser formateadas como yaml's (como con las otras páginas). Si se te ocurre algo mejor, inténtalo. - Joshua -->
   {% assign years = "" | split: "" %}

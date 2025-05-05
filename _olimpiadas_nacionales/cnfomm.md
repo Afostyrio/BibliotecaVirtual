@@ -3,6 +3,7 @@ title: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas
 urlname: cnfomm
 logo-title: ../assets/img/Logo-cnfomm.png
 layout: home
+altname: CNFOMM
 ---
 {% for edition in site.data.nacionales.cnfomm reversed %}
 <div class="row">

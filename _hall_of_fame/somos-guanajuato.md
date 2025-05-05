@@ -3,6 +3,7 @@ title: Todos los olímpicos
 urlname: somos-guanajuato
 logo-title:
 layout: home
+altname: ¡Todos están aquí!
 ---
 <div class= "row">
   {% for olympian in site.data.historico.somos_guanajuato %}

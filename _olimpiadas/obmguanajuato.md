@@ -3,6 +3,7 @@ title: Olimpiada Básica de Matemáticas
 urlname: obmguanajuato
 logo-title: ../assets/img/Logo.png
 layout: home
+altname: La poderosísima OBM
 ---
 
 {% for edition in site.data.ediciones_obm reversed %}

@@ -3,6 +3,7 @@ title: Olimpiada Mexicana de Matemáticas
 urlname: omm
 logo-title: ../assets/img/Logo-omm.png
 layout: home
+altname: OMM
 ---
 
   <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">

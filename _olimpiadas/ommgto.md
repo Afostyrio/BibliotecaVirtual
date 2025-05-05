@@ -3,6 +3,7 @@ title: Olimpiada Mexicana de Matemáticas
 logo-title: ../assets/img/Logo-ommgto.png
 urlname: ommgto
 layout: home
+altname: La poderosísima OMMGto
 ---
 
 {% for edition in site.data.ediciones_ommgto reversed %}

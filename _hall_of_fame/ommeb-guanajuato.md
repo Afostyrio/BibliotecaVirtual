@@ -3,6 +3,7 @@ title: Olimpiada Mexicana de Matemáticas para Educación Básica
 urlname: ommeb-guanajuato
 logo-title: ../assets/img/Logo-ommeb.png
 layout: home
+altname: Guanajuatenses en la OMMEB
 ---
   <div class= "row">
   {% for item in site.data.historico.ommeb_guanajuato reversed%}

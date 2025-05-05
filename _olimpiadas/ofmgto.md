@@ -3,6 +3,7 @@ title: Olimpiada Femenil de Matemáticas
 logo-title: ../assets/img/Logo-ommf.png
 urlname: ofmgto
 layout: home
+altname: La poderosísima Femenil
 ---
 
 {% for edition in site.data.ediciones_ofmgto reversed %}

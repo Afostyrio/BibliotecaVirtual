@@ -3,6 +3,7 @@ title: Olimpiada Mexicana de Matemáticas para Educación Básica
 urlname: ommeb
 logo-title: ../assets/img/Logo-ommeb.png
 layout: home
+altname: OMMEB
 ---
 
 {% for edition in site.data.nacionales.ommeb reversed %}

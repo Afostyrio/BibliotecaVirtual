@@ -2,6 +2,7 @@
 title: Olimpiadas Internacionales
 urlname: internacionales-guanajuato
 layout: home
+altname: Guanajuatenses en olimpiadas internacionales
 ---
 
   <div class= "row">
