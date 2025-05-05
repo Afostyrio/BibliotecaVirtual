@@ -20,7 +20,7 @@ def add_faq(root):
     new_faq_answer_entry.grid(row=1, column=1)
 
     # Botón para finalizar el registro
-    add_new_faq_button = tk.Button(new_faq_tab, text="Agregar colaborador", command=lambda: add_new_faq(
+    add_new_faq_button = tk.Button(new_faq_tab, text="Agregar pregunta frecuente", command=lambda: add_new_faq(
         new_faq_question_entry.get(),
         new_faq_answer_entry.get(),
         new_faq_tab

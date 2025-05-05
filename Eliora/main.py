@@ -19,6 +19,9 @@ add_colaborator_button.pack()
 # Botón para añadir FAQ
 add_faq_button = tk.Button(root, text="Pregunta frecuente", command=lambda: add_faq(root=root))
 add_faq_button.pack()
+# Botón para cerrar a Eliora
+add_close_button = tk.Button(root, text="Buenas noches, Eliora", command=lambda: root.destroy())
+add_close_button.pack()
 
 root.mainloop()
 
