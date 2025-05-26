@@ -21,8 +21,8 @@ def add_faq(root):
 
     # Botón para finalizar el registro
     add_new_faq_button = tk.Button(new_faq_tab, text="Agregar pregunta frecuente", command=lambda: add_new_faq(
-        new_faq_question_entry.get(),
-        new_faq_answer_entry.get(),
+        new_faq_question_entry.get("1.0",tk.END),
+        new_faq_answer_entry.get("1.0",tk.END),
         new_faq_tab
     ))
     add_new_faq_button.grid(row=2, column=1)
