@@ -132,6 +132,15 @@
       achievement: Bronce
       team_achievement: N/A
 
+- name: Andrea Peña Cuentas
+  years:
+  - year: 2025
+    olympiads:
+    - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
+      level: Nivel 2
+      achievement: Bronce
+      team_achievement: 
+
 - name: Angelo Maximiliano Espitia Díaz
   years:
   - year: 2024
@@ -418,6 +427,12 @@
 
 - name: Diana Camila Avilés Granados
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
+      level: Nivel 1
+      achievement: Bronce
+      team_achievement: 
   - year: 2020
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
@@ -560,6 +575,12 @@
 
 - name: Eva Rodríguez Muñoz
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
+      level: Nivel 2
+      achievement: Bronce
+      team_achievement: 
   - year: 2024
     olympiads:
     - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
@@ -1437,8 +1458,14 @@
       achievement: Participación
       team_achievement: 
 
-- name: Kyara Breidenstein Solis
+- name: Kyara Maria Breidenstein Solis
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
+      level: Nivel 2
+      achievement: Ausente
+      team_achievement: 
   - year: 2024
     olympiads:
     - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
@@ -1448,6 +1475,12 @@
 
 - name: Kyzha Myranda De León Zamarripa
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
+      level: Nivel 1
+      achievement: Bronce
+      team_achievement: 
   - year: 2024
     olympiads:
     - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
@@ -2015,6 +2048,12 @@
 
 - name: Sofia Martínez Sánchez
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
+      level: Nivel 1
+      achievement: Bronce
+      team_achievement:
   - year: 2024
     olympiads:
     - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)

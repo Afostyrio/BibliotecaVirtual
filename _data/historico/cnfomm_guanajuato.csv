@@ -1,19 +1,25 @@
-Nombre,Year,Logro,Nivel,Logro_en_equipo
-Itzel Cano Rivas,2022,Plata,Nivel 1,Bronce
-Eva Rodríguez Muñoz,2022,Participación,Nivel 1,Mención Honorífica
-,2022,,Nivel 1,
-Cynthia Naely López Estrada,2022,Oro,Nivel 2,Bronce
-Itzel Berenice Martínez Palacios,2022,Plata,Nivel 2,Mención Honorífica
-,2022,,Nivel 2,
-Eva Rodríguez Muñoz,2023,Mención Honorífica,Nivel 1,
-María Ximena Alvarez Martínez,2023,Bronce,Nivel 1,
-Abril Estefania Galvan Ramirez,2023,Participación,Nivel 1,
-Yessi Rodríguez Ramírez,2023,Participación,Nivel 2,
-Azul Zuzette Manzano Lugo,2023,Participación,Nivel 2,
-Bethania Michelle Becerra Pedroza,2023,Participación,Nivel 2,
-Eva Rodríguez Muñoz,2024,Plata,Nivel 1,
-Kyzha Myranda De León Zamarripa,2024,Participación,Nivel 1,
-María Ximena Alvarez Martínez,2024,Bronce,Nivel 1,
-Itzel Cano Rivas,2024,Plata,Nivel 2,
-Kyara Breidenstein Solis,2024,Participación,Nivel 2,
-Sofia Martínez Sánchez,2024,Participación,Nivel 2,
+Nombre,Lugar,Year,,Logro,Nivel,Logro_en_equipo
+Itzel Cano Rivas,2022,Virtual,Plata,Nivel 1,Bronce
+Eva Rodríguez Muñoz,2022,Virtual,Participación,Nivel 1,Mención Honorífica
+,2022,Virtual,,Nivel 1,
+Cynthia Naely López Estrada,2022,Virtual,Oro,Nivel 2,Bronce
+Itzel Berenice Martínez Palacios,2022,Virtual,Plata,Nivel 2,Mención Honorífica
+,2022,Virtual,,Nivel 2,
+Eva Rodríguez Muñoz,2023,"Oaxtepec, Morelos",Mención Honorífica,Nivel 1,
+María Ximena Alvarez Martínez,2023,"Oaxtepec, Morelos",Bronce,Nivel 1,
+Abril Estefania Galvan Ramirez,2023,"Oaxtepec, Morelos",Participación,Nivel 1,
+Yessi Rodríguez Ramírez,2023,"Oaxtepec, Morelos",Participación,Nivel 2,
+Azul Zuzette Manzano Lugo,2023,"Oaxtepec, Morelos",Participación,Nivel 2,
+Bethania Michelle Becerra Pedroza,2023,"Oaxtepec, Morelos",Participación,Nivel 2,
+Eva Rodríguez Muñoz,2024,Ciudad de México,Plata,Nivel 1,
+Kyzha Myranda De León Zamarripa,2024,Ciudad de México,Participación,Nivel 1,
+María Ximena Alvarez Martínez,2024,Ciudad de México,Bronce,Nivel 1,
+Itzel Cano Rivas,2024,Ciudad de México,Plata,Nivel 2,
+Kyara Maria Breidenstein Solis,2024,Ciudad de México,Participación,Nivel 2,
+Sofia Martínez Sánchez,2024,Ciudad de México,Participación,Nivel 2,
+Diana Camila Avilés Granados,2025,"Guanajuato, Guanajuato",Bronce,Nivel 1,
+Kyzha Myranda De León Zamarripa,2025,"Guanajuato, Guanajuato",Bronce,Nivel 1,
+Sofia Martínez Sánchez,2025,"Guanajuato, Guanajuato",Bronce,Nivel 1,
+Kyara Maria Breidenstein Solis,2025,"Guanajuato, Guanajuato",Ausente,Nivel 2,
+Andrea Peña Cuentas,2025,"Guanajuato, Guanajuato",Bronce,Nivel 2,
+Eva Rodríguez Muñoz,2025,"Guanajuato, Guanajuato",Bronce,Nivel 2,
