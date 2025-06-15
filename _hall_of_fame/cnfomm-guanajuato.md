@@ -17,7 +17,7 @@ altname: Guanajuatenses en el CNFOMM
 
   <div class= "row">
   {% for year in sorted_years reversed %}
-  <h2 class="text-center">{{year}}</h2>
+  <h2 class="text-center" id={{year}}>{{year}}</h2>
   <table class="table table-dark table-hover">
     <thead>
       <tr>

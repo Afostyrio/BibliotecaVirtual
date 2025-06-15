@@ -8,7 +8,7 @@ altname: CNFOMM
 {% for edition in site.data.nacionales.cnfomm reversed %}
 <div class="row">
 	<div class="col mb-3">
-	<h2 class="text-center">{{edition.year}}</h2>
+	<h2 class="text-center" id="{{edition.year}}">{{edition.year}}</h2>
 	<h3 class="text-center">{{edition.location}}</h3>
     <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
     {% for exam in edition.exams %}

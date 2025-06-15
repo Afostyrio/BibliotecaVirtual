@@ -7,7 +7,7 @@ altname: Guanajuatenses en olimpiadas internacionales
 
   <div class= "row">
   {% for item in site.data.historico.internacional_guanajuato reversed%}
-  <h2 class="text-center">{{item.year}}</h2>
+  <h2 class="text-center" id="{{item.year}}">{{item.year}}</h2>
   <table class="table table-dark table-hover">
     <thead>
       <tr>
