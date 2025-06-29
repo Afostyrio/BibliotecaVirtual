@@ -435,3 +435,23 @@
     - subtopic: Ecuaciones diofánticas
     - subtopic: De postre, tres curiosidades
 
+- title: "Lógica y Conjuntos"
+  title_id: "Logica y Conjuntos"
+  year: 2019
+  thumbnail: Logo-ommgto.png
+  topic: Métodos de ataque de problemas
+  file: Lógica-y-Conjuntos.pdf
+  author: "Nuria Sydykova Méndez"
+  level: Intermedio - Avanzado
+  alttext: "Lógicamente, agrupamos."
+  content:
+    - subtopic: Proposiciones
+    - subtopic: Conectivos lógicos
+    - subtopic: Tablas de verdad
+    - subtopic: Equivalencias lógicas
+    - subtopic: Métodos de demostración
+    - subtopic: Problemas
+    - subtopic: Definición de conjunto
+    - subtopic: Operaciones con conjuntos
+    - subtopic: Identidades
+    - subtopic: Problemas
