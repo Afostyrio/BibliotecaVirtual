@@ -1,0 +1,12 @@
+- year: 2024
+  thumbnail: Logo-ommf.png
+  exams:
+  - number: 1
+    file: 2024 S1.pdf
+  - number: 2
+    file: 2024 S2.pdf
+  - number: 3 (día 1)
+    file: 2024 S3-1.pdf
+  - number: 3 (día 2)
+    file: 2024 S3-2.pdf
+
