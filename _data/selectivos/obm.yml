@@ -436,6 +436,31 @@
       filename: 2019-2020 S4.Sec2.pdf
     - level: 3<sup>ro</sup> de Secundaria
       filename: 2019-2020 S4.Sec3.pdf
+- year: 2021-2022
+  thumbnail: Logo.png
+  exams:
+  - number: 4
+    files:
+    - level: 4<sup>to</sup> y 5<sup>to</sup> de Primaria
+      filename: 2021-2022 S4.Prim4,5.pdf
+    - level: 6<sup>to</sup> de Primaria
+      filename: 2021-2022 S4.Prim6.pdf
+    - level: 1<sup>ro</sup> de Secundaria
+      filename: 2021-2022 S4.Sec1.pdf
+    - level: 2<sup>do</sup> de Secundaria
+      filename: 2021-2022 S4.Sec2.pdf
+    - level: 3<sup>ro</sup> de Secundaria
+      filename: 2021-2022 S4.Sec3.pdf
+  - number: 5
+    files:
+    - level: 4<sup>to</sup> y 5<sup>to</sup> de Primaria
+      filename: 2021-2022 S5.Prim4,5.pdf
+    - level: 6<sup>to</sup> de Primaria y 1<sup>ro</sup> de Secundaria
+      filename: 2021-2022 S5.Prim6, Sec1.pdf
+    - level: 2<sup>do</sup> de Secundaria
+      filename: 2021-2022 S5.Sec2.pdf
+    - level: 3<sup>ro</sup> de Secundaria
+      filename: 2021-2022 S5.Sec3.pdf
 - year: 2022-2023
   thumbnail: Logo.png
   exams:
