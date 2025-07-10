@@ -8,3 +8,16 @@
   - number: 3
     file: 2024 S3.pdf
 
+- year: 2025
+  thumbnail: Logo-ommgto.png
+  exams:
+  - number: 1
+    file: 2025 S1.pdf
+  - number: 1 (ronda 2)
+    file: 2025 S1-2.pdf
+  - number: 2
+    file: 2025 S2.pdf
+  - number: 3
+    file: 2025 S3.pdf
+  - number: 4
+    file: 2025 S4.pdf
