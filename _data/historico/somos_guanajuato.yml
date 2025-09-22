@@ -93,6 +93,12 @@
 
 - name: Ander Alonso Albores Ramírez
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 2
+      achievement: Bronce
+      team_achievement:
   - year: 2024
     olympiads:
     - olympiad: International Mathematics Competition (IMC)
@@ -143,6 +149,12 @@
 
 - name: Angelo Maximiliano Espitia Díaz
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 1
+      achievement: Participación
+      team_achievement: Bronce
   - year: 2024
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
@@ -418,6 +430,12 @@
 
 - name: Demian Gonzalez García
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 2
+      achievement: Bronce
+      team_achievement:
   - year: 2023
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
@@ -536,6 +554,12 @@
 
 - name: Érick Adán Cortez Peña
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 3
+      achievement: Mención Honorífica
+      team_achievement:
   - year: 2024
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
@@ -783,6 +807,24 @@
       level: N/A
       achievement: 
       team_achievement: N/A
+
+- name: Hugo Alejandro Morales Dorado
+  years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 2
+      achievement: Plata
+      team_achievement:
+
+- name: Ian Mateo Echeveste Ferrer
+  years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 1
+      achievement: Plata
+      team_achievement: Bronce
 
 - name: Irwin Enrique Villalobos López
   years:
@@ -1107,6 +1149,12 @@
 
 - name: Joaquín Rafael Servin Sandoval
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 1
+      achievement: Plata
+      team_achievement: Bronce
   - year: 2024
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
@@ -1152,6 +1200,12 @@
 
 - name: José Antonio Vega Sánchez
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 3
+      achievement: Oro
+      team_achievement:
   - year: 2024
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
@@ -2046,13 +2100,17 @@
       achievement: Participación
       team_achievement: N/A
 
-- name: Sofia Martínez Sánchez
+- name: Sofía Martínez Sánchez
   years:
   - year: 2025
     olympiads:
     - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
       level: Nivel 1
       achievement: Bronce
+      team_achievement:
+    - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
+      level: Nivel 3
+      achievement: Participación
       team_achievement:
   - year: 2024
     olympiads:

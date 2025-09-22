@@ -203,7 +203,7 @@
       achievement: Bronce
     - name: Julián Emilio Martínez Villegas
       achievement: Mención Honorífica
-    - name: Sofia Martínez Sánchez
+    - name: Sofía Martínez Sánchez
       achievement: Mención Honorífica
   - level: Nivel 3
     team_achievement: 
@@ -245,3 +245,34 @@
       achievement: Mención Honorífica
     - name: Mauro Gonzalo Lopez Rico
       achievement: Mención Honorífica
+
+- year: 2024
+  location: Oaxtepec, Morelos
+  levels:
+  - level: Nivel 1
+    team_achievement: Bronce
+    team:
+    - name: Joaquín Rafael Servin Sandoval
+      achievement: Plata
+    - name: Angelo Maximiliano Espitia Díaz
+      achievement: Participación
+    - name: Ian Mateo Echeveste Ferrer
+      achievement: Plata
+  - level: Nivel 2
+    team_achievement:
+    team:
+    - name: Ander Alonso Albores Ramírez
+      achievement: Bronce
+    - name: Demian Gonzalez García
+      achievement: Bronce
+    - name: Hugo Alejandro Morales Dorado
+      achievement: Plata
+  - level: Nivel 3
+    team_achievement:
+    team:
+    - name: José Antonio Vega Sánchez
+      achievement: Oro
+    - name: Érick Adán Cortez Peña
+      achievement: Mención Honorífica
+    - name: Sofía Martínez Sánchez
+      achievement: Participación
