@@ -95,6 +95,10 @@
   years:
   - year: 2025
     olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Bronce
+      team_achievement: N/A
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
       level: Nivel 2
       achievement: Bronce
@@ -146,6 +150,10 @@
       level: Nivel 2
       achievement: Bronce
       team_achievement: 
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Bronce
+      team_achievement: N/A
 
 - name: Angelo Maximiliano Espitia Díaz
   years:
@@ -1202,6 +1210,10 @@
   years:
   - year: 2025
     olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Bronce
+      team_achievement: N/A
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
       level: Nivel 3
       achievement: Oro
@@ -1535,6 +1547,10 @@
       level: Nivel 1
       achievement: Bronce
       team_achievement: 
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Participación
+      team_achievement: N/A
   - year: 2024
     olympiads:
     - olympiad: Concurso Nacional Femenil de la Olimpiada Mexicana de Matemáticas (CNFOMM)
@@ -1644,8 +1660,6 @@
       level: Nivel 1
       achievement: Bronce
       team_achievement: 
-  - year: 2023
-    olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas para Educación Básica (OMMEB)
       level: Nivel 3
       achievement: Mención Honorífica
@@ -1686,6 +1700,12 @@
 
 - name: Mauro Gonzalo Lopez Rico
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Bronce
+      team_achievement: N/A
   - year: 2024
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
@@ -2066,6 +2086,12 @@
 
 - name: Saulo Alonso Ramos Aldaco
   years:
+  - year: 2025
+    olympiads:
+    - olympiad: Olimpiada Mexicana de Matemáticas (OMM)
+      level: N/A
+      achievement: Mención Honorífica
+      team_achievement: N/A
   - year: 2024
     olympiads:
     - olympiad: Olimpiada Mexicana de Matemáticas (OMM)

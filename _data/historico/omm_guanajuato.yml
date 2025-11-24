@@ -285,7 +285,7 @@
     achievement: Mención Honorífica
 
 - year: 2023
-  location: Durando, Durango
+  location: Durango, Durango
   team:
   - name: Roberto Eugenio Esqueda Allande
     achievement: Bronce
@@ -314,4 +314,20 @@
   - name: Mauro Gonzalo López Rico
     achievement: Bronce
   - name: Saulo Alonso Ramos Aldaco
+    achievement: Participación
+
+- year: 2025
+  location: Oaxtepec, Morelos
+  team:
+  - name: Mauro Gonzalo López Rico
+    achievement: Bronce
+  - name: Ander Alonso Albores Ramírez
+    achievement: Bronce
+  - name: Saulo Alonso Ramos Aldaco
+    achievement: Mención Honorífica
+  - name: José Antonio Vega Sánchez
+    achievement: Bronce
+  - name: Andrea Peña Cuentas
+    achievement: Bronce
+  - name: Kyzha Myranda De León Zamarripa
     achievement: Participación
