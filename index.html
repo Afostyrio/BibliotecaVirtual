@@ -40,6 +40,111 @@ order: 1
 
 <div class="row mt-3 mb-2">
   <div class="col">
+    <h2 class="text-center">Comenzar a buscar</h2>
+    <input class="form-control" id="myInput" type="text" placeholder="Buscar...">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col mb-3">
+    <h3 class="text-center" id="LibrosTitulo">Libros y cuadernillos</h3>
+    <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4" id="ListaLibros">
+    {% assign libros = site.data.material.libros | sort: "title_id"%}
+    {% for item in libros %}
+      <div class="col">
+        <div class="card h-100 mb-3">
+          <div class="card-header">{{item.topic}}</div>
+          <a
+            href="{{site.baseurl}}/assets/pdf/Material/{{item.file}}"
+            target="_blank"
+            title="{{ item.alttext }}"
+            rel="noopener noreferrer"
+          >
+            <img
+              height="150px"
+              style="object-fit: contain;"
+              class="card-img rounded-0 border-top border-bottom bg-white"
+              src="{{site.baseurl}}/assets/img/{{item.thumbnail}}"
+              alt="{{ item.title }}"/>
+          </a>
+          <div class="card-body">
+            <a
+              href="{{site.baseurl}}/assets/pdf/Material/{{item.file}}"
+              target="_blank"
+              title="{{ item.alttext }}"
+              class="card-link"
+              rel="noopener noreferrer"
+            >{{ item.title }}</a>
+            <p class="card-text text-muted">
+              Autor(es): {{ item.author }}
+              <br>
+              Año de publicación: {{ item.year }}
+            </p>
+            <p class="card-text">
+              <b>Contenidos:</b>
+              <ul class="list-group list-group-flush">
+                {% for subtopic in item.content %}
+                <li class="list-group-item">{{subtopic.subtopic}}</li>
+                {% endfor %}
+              </ul>
+            </p>
+          </div>
+          <div class="card-footer text-body-secondary text-end"
+          >Nivel: {{ item.level }} </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col mb-3">
+    <h3 class="text-center" id="EntrenamientosTitulo">Entrenamientos</h3>
+    <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4" id="ListaEntrenamientos">
+    {% assign entrenamientos = site.data.material.entrenamientos | sort: "title_id" %}
+    {% for item in entrenamientos %}
+    <div class="col">
+      <div class="card h-100 mb-3">
+        <div class="card-header">{{item.topic}}</div>
+        <a
+          href="{{site.baseurl}}/assets/pdf/Material/{{item.file}}"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="{{item.alttext}}"
+        >
+          <img
+            height="150px"
+            style="object-fit: contain;"
+            class="card-img rounded-0 border-top border-bottom bg-white"
+            src="{{site.baseurl}}/assets/img/{{item.thumbnail}}"
+            alt="{{ item.title }}"/>
+        </a>
+        <div class="card-body">
+          <a
+            href="{{site.baseurl}}/assets/pdf/Material/{{item.file}}"
+            target="_blank"
+            title="{{ item.alttext }}"
+            class="card-link"
+            rel="noopener noreferrer"
+          > {{ item.title }}</a>
+          <p class="card-text text-muted">
+            Autor(es): {{ item.author }}
+            <br>
+            Año de publicación: {{ item.year }}
+          </p>
+        </div>
+        <div class="card-footer text-body-secondary text-end"
+        >Nivel: {{ item.level }}</div>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="row mt-3 mb-2">
+  <div class="col">
     <h2 class="text-center">¿Cómo navegar la biblioteca?</h2>
   </div>
 </div>
@@ -128,3 +233,39 @@ order: 1
   </div>
 </div>
 </div>
+
+<!-- Código para la barra de búsqueda -->
+<script>
+$(document).ready(function(){
+  $("#LibrosTitulo").hide();
+  $("#EntrenamientosTitulo").hide();
+  $("#ListaLibros").hide();
+  $("#ListaEntrenamientos").hide();
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    var book_match = false;
+    var file_match = false
+    $("#ListaLibros .col").filter(function() {
+      var match = $(this).text().toLowerCase().indexOf(value) > -1;
+      $(this).toggle(match);
+      if (match){book_match = true};
+    });
+    $("#ListaEntrenamientos .col").filter(function() {
+      var match = $(this).text().toLowerCase().indexOf(value) > -1;
+      $(this).toggle(match);
+      if (match){file_match = true};
+    });
+    if (book_match){$("#LibrosTitulo").show();} else {$("#LibrosTitulo").hide();}
+    if (file_match){$("#EntrenamientosTitulo").show();} else {$("#EntrenamientosTitulo").hide();}
+    if (value){
+      $("#ListaLibros").show();
+      $("#ListaEntrenamientos").show();
+    } else {
+      $("#LibrosTitulo").hide();
+      $("#ListaLibros").hide();
+      $("#EntrenamientosTitulo").hide();
+      $("#ListaEntrenamientos").hide();
+    }
+  });
+});
+</script>
