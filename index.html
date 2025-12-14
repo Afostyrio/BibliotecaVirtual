@@ -42,7 +42,7 @@ order: 1
 <div class="row mt-3 mb-2">
   <div class="col">
     <h2 class="text-center">¡Comienza a buscar material!</h2>
-    <input class="form-control" id="myInput" type="text" placeholder="¿Qué quieres entrenar hoy?">
+    <input class="form-control" id="myInput" type="text" placeholder="¿Qué quieres entrenar hoy? (/)">
   </div>
 </div>
 
@@ -420,5 +420,12 @@ $(document).ready(function(){
       $("#ListaEntrenamientos").hide();
     }
   });
+});
+
+document.addEventListener('keydown', function(event){
+  if (event.key === '/'){
+    event.preventDefault();
+    document.getElementById('myInput').focus();
+  }
 });
 </script>
