@@ -43,13 +43,26 @@
                   <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"
                   >Olimpiadas nacionales</a>
                   <ul class="dropdown-menu">
-                  {% for item in site.olimpiadas_nacionales%}
-                    <li> <a class="dropdown-item" 
-                    href="{{ item.url | relative_url}}"  
-                    rel="noopener noreferrer"
-                    title="{{ item.altname }}"
-                    > {{ item.title }}</a></li>
-                  {% endfor %}
+                    <li><a href="#" class="dropdown-item">Olimpiadas SMM</a>
+                      <ul class="dropdown-menu dropdown-submenu">
+                        {% for item in site.olimpiadas_smm %}
+                          <li> <a class="dropdown-item" 
+                          href="{{ item.url | relative_url}}"  
+                          rel="noopener noreferrer"
+                          title="{{ item.altname }}"
+                          > {{ item.title }}</a></li>
+                        {% endfor %}
+                      </ul>
+                    </li>
+                    <li><a href="#" class="dropdown-item">Olimpiadas CARMA</a>
+                      <ul class="dropdown-menu dropdown-submenu">
+                        {% for item in site.olimpiadas_carma %}
+                          <li><a class="dropdown-item" href="{{ item.url | relative_url }}" rel="noopener noreferrer" title="{{ item.altname }}">
+                            {{ item.title }}
+                          </a></li>
+                        {% endfor %}
+                      </ul>
+                    </li>
                   </ul>
                 </li>
                 <li class="nav-item dropdown">

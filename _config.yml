@@ -43,7 +43,10 @@ collections:
   olimpiadas:
     output: true
     permalink: '/:name/'
-  olimpiadas_nacionales:
+  olimpiadas_smm:
+    output: true
+    permalink: '/:name/'
+  olimpiadas_carma:
     output: true
     permalink: '/:name/'
   hall_of_fame:

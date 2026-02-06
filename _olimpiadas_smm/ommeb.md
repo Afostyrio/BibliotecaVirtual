@@ -6,7 +6,7 @@ layout: home
 altname: OMMEB
 ---
 
-{% for edition in site.data.nacionales.ommeb reversed %}
+{% for edition in site.data.nacionales_smm.ommeb reversed %}
 <div class="row">
 	<div class="col mb-3">
 	<h2 class="text-center" id="{{edition.year}}">{{edition.year}}</h2>

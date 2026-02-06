@@ -5,7 +5,7 @@ logo-title: ../assets/img/Logo-cnfomm.png
 layout: home
 altname: CNFOMM
 ---
-{% for edition in site.data.nacionales.cnfomm reversed %}
+{% for edition in site.data.nacionales_smm.cnfomm reversed %}
 <div class="row">
 	<div class="col mb-3">
 	<h2 class="text-center" id="{{edition.year}}">{{edition.year}}</h2>
