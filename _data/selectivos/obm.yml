@@ -1,10 +1,3 @@
-- year: 2011
-  thumbnail: Logo.png
-  exams:
-  - number: 1
-    files:
-    - level: 1<sup>ro</sup> de secundaria
-      filename: 2011 S1.Sec1.pdf
 - year: 2008
   thumbnail: Logo-cimat.png
   exams:
@@ -644,3 +637,14 @@
       filename: 2024-2025 S5.Sec2.pdf
     - level: 3<sup>ro</sup> de Secundaria
       filename: 2024-2025 S5.Sec3.pdf
+- year: 2026
+  thumbnail: Logo.png
+  exams:
+  - number: 4
+    files:
+    - level: 4<sup>to</sup> y 5<sup>to</sup> de Primaria
+      filename: 2026 S4.Prim4,5.pdf
+    - level: 6<sup>to</sup> de Primaria y 1<sup>ro</sup> de Secundaria
+      filename: 2026 S4.Prim6, Sec1.pdf
+    - level: 2<sup>do</sup> de Secundaria
+      filename: 2026 S4.Sec2.pdf
