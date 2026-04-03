@@ -455,3 +455,19 @@
     - subtopic: Operaciones con conjuntos
     - subtopic: Identidades
     - subtopic: Problemas
+- title: "Principio del producto y de la suma (parte 2)"
+  title_id: "Principio del producto y de la suma (parte 2)"
+  year: 2024
+  thumbnail: Logo-ommgto.png
+  topic: Combinatoria
+  file: Principio-del-producto-y-de-la-suma-(parte 2).pdf
+  author: "Sebastian Sánchez Lara"
+  level: Intermedio
+  alttext: "¡Revisa la parte 1 primero!"
+  content:
+    - subtopic: Conteo
+    - subtopic: Permutaciones
+    - subtopic: Combinaciones
+    - subtopic: Problemas generales
+    - subtopic: Resultados de combinaciones
+
